@@ -1,0 +1,68 @@
+2021-10-21 14:37:28,385 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-10-21 14:37:28,386 INFO listen for service meta change
+
+2021-10-21 14:37:32,592 INFO [NACOS-DISTRO] healthy server list changed, old: [10.0.0.8:8848], new: [10.0.0.8:8848]
+
+2021-10-21 14:37:32,594 INFO member change, new members [Member{ip='10.0.0.8', port=8848, state=UP, extendInfo={lastRefreshTime=1634798252590, raftPort=7848, version=2.0.0}}]
+
+2021-10-21 14:37:37,031 INFO Client connection 10.0.0.8:60401#true connect
+
+2021-10-21 14:37:38,404 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-21 14:37:38,404 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=0}, 10.0.0.8:9900#true
+
+2021-10-21 14:42:35,968 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=1}, 10.0.0.8:9900#true
+
+2021-10-21 14:43:02,717 INFO Client connection 10.0.0.8:60401#true disconnect, remove instances and subscribers
+
+2021-10-21 14:43:07,731 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-21 14:43:45,873 INFO Client connection 10.0.0.8:57783#true connect
+
+2021-10-21 14:43:46,994 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-21 14:43:46,994 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=2}, 10.0.0.8:9900#true
+
+2021-10-21 14:44:54,315 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=3}, 10.0.0.8:9900#true
+
+2021-10-21 14:45:22,945 INFO Client connection 10.0.0.8:57783#true disconnect, remove instances and subscribers
+
+2021-10-21 14:45:27,949 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-21 14:46:03,845 WARN namespace : public, [DEFAULT_GROUP@@gateway] services are automatically cleaned
+
+2021-10-21 14:50:17,798 INFO Client connection 10.0.0.8:59660#true connect
+
+2021-10-21 14:50:18,895 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-21 14:50:18,895 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=0}, 10.0.0.8:9900#true
+
+2021-10-21 14:52:34,815 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=1}, 10.0.0.8:9900#true
+
+2021-10-21 14:52:43,608 INFO Client connection 10.0.0.8:64215#true connect
+
+2021-10-21 14:52:44,678 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=2}, 10.0.0.8:9900#true
+
+2021-10-21 14:53:03,725 INFO Client connection 10.0.0.8:59660#true disconnect, remove instances and subscribers
+
+2021-10-21 15:16:25,536 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=3}, 10.0.0.8:9900#true
+
+2021-10-21 15:16:51,018 INFO Client connection 10.0.0.8:64215#true disconnect, remove instances and subscribers
+
+2021-10-21 15:16:56,031 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-21 15:16:56,293 INFO Client connection 10.0.0.8:57047#true connect
+
+2021-10-21 15:16:57,395 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-21 15:16:57,395 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=4}, 10.0.0.8:9900#true
+
+2021-10-21 15:17:11,406 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=5}, 10.0.0.8:9900#true
+
+2021-10-21 15:17:41,092 INFO Client connection 10.0.0.8:57047#true disconnect, remove instances and subscribers
+
+2021-10-21 15:17:46,105 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-21 15:19:04,118 WARN namespace : public, [DEFAULT_GROUP@@gateway] services are automatically cleaned
+

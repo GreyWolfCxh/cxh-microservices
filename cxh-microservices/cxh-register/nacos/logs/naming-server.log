@@ -1,0 +1,260 @@
+2021-10-22 10:11:20,048 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-10-22 10:11:20,050 INFO listen for service meta change
+
+2021-10-22 10:11:24,123 INFO [NACOS-DISTRO] healthy server list changed, old: [10.0.0.8:8848], new: [10.0.0.8:8848]
+
+2021-10-22 10:11:24,123 INFO member change, new members [Member{ip='10.0.0.8', port=8848, state=UP, extendInfo={lastRefreshTime=1634868684122, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@79ba0f31, raftPort=7848, version=2.0.0}}]
+
+2021-10-22 10:26:37,432 INFO Client connection 10.0.0.8:63447#true connect
+
+2021-10-22 10:26:37,740 INFO Client connection 10.0.0.8:8000#true connect
+
+2021-10-22 10:26:37,740 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=0}, 10.0.0.8:8000#true
+
+2021-10-22 10:32:13,437 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=1}, ip: {"ip":"10.0.0.8","port":8000,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"10.0.0.8#8000#DEFAULT#DEFAULT_GROUP@@uaa-server"},"lastHeartBeatTime":1634869900939,"metadataId":"10.0.0.8:8000:DEFAULT"}
+
+2021-10-22 10:32:13,437 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=1}, 10.0.0.8:8000#true
+
+2021-10-22 10:32:15,012 INFO Client connection 10.0.0.8:63447#true disconnect, remove instances and subscribers
+
+2021-10-22 10:32:15,012 INFO Client connection 10.0.0.8:8000#true disconnect, remove instances and subscribers
+
+2021-10-22 10:32:26,616 INFO Client connection 10.0.0.8:64145#true connect
+
+2021-10-22 10:32:26,680 INFO Client connection 10.0.0.8:8000#true connect
+
+2021-10-22 10:32:26,680 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=2}, 10.0.0.8:8000#true
+
+2021-10-22 10:33:53,340 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=3}, 10.0.0.8:8000#true
+
+2021-10-22 10:34:20,218 INFO Client connection 10.0.0.8:64145#true disconnect, remove instances and subscribers
+
+2021-10-22 10:34:25,219 INFO Client connection 10.0.0.8:8000#true disconnect, remove instances and subscribers
+
+2021-10-22 10:34:54,555 WARN namespace : public, [DEFAULT_GROUP@@uaa-server] services are automatically cleaned
+
+2021-10-22 10:37:35,869 INFO Client connection 10.0.0.8:54518#true connect
+
+2021-10-22 10:37:35,938 INFO Client connection 10.0.0.8:8000#true connect
+
+2021-10-22 10:37:35,938 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=0}, 10.0.0.8:8000#true
+
+2021-10-22 10:46:53,849 INFO Client connection 10.0.0.8:50419#true connect
+
+2021-10-22 10:46:54,541 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-22 10:46:54,541 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=0}, 10.0.0.8:9900#true
+
+2021-10-22 10:48:51,168 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=1}, 10.0.0.8:9900#true
+
+2021-10-22 10:49:21,739 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-22 10:49:26,742 INFO Client connection 10.0.0.8:50419#true disconnect, remove instances and subscribers
+
+2021-10-22 10:49:54,657 WARN namespace : public, [DEFAULT_GROUP@@gateway] services are automatically cleaned
+
+2021-10-22 11:02:18,721 INFO Client connection 10.0.0.8:60460#true connect
+
+2021-10-22 11:02:19,634 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-22 11:02:19,634 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=0}, 10.0.0.8:9900#true
+
+2021-10-22 11:04:36,116 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=1}, 10.0.0.8:8000#true
+
+2021-10-22 11:05:03,197 INFO Client connection 10.0.0.8:54518#true disconnect, remove instances and subscribers
+
+2021-10-22 11:05:08,210 INFO Client connection 10.0.0.8:8000#true disconnect, remove instances and subscribers
+
+2021-10-22 11:05:30,818 INFO Client connection 10.0.0.8:52841#true connect
+
+2021-10-22 11:05:30,886 INFO Client connection 10.0.0.8:8000#true connect
+
+2021-10-22 11:05:30,886 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=2}, 10.0.0.8:8000#true
+
+2021-10-22 11:13:45,345 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=3}, 10.0.0.8:8000#true
+
+2021-10-22 11:13:48,328 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=1}, 10.0.0.8:9900#true
+
+2021-10-22 11:14:14,126 INFO Client connection 10.0.0.8:52841#true disconnect, remove instances and subscribers
+
+2021-10-22 11:14:19,136 INFO Client connection 10.0.0.8:8000#true disconnect, remove instances and subscribers
+
+2021-10-22 11:14:19,136 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-22 11:14:24,137 INFO Client connection 10.0.0.8:60460#true disconnect, remove instances and subscribers
+
+2021-10-22 11:14:54,834 WARN namespace : public, [DEFAULT_GROUP@@gateway] services are automatically cleaned
+
+2021-10-22 11:14:54,834 WARN namespace : public, [DEFAULT_GROUP@@uaa-server] services are automatically cleaned
+
+2021-10-22 11:14:57,143 INFO Client connection 10.0.0.8:54809#true connect
+
+2021-10-22 11:14:57,230 INFO Client connection 10.0.0.8:8000#true connect
+
+2021-10-22 11:14:57,230 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=0}, 10.0.0.8:8000#true
+
+2021-10-22 11:15:26,729 INFO Client connection 10.0.0.8:59937#true connect
+
+2021-10-22 11:15:27,403 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-22 11:15:27,403 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=0}, 10.0.0.8:9900#true
+
+2021-10-22 11:20:04,611 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=1}, 10.0.0.8:9900#true
+
+2021-10-22 11:20:04,864 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='uaa-server', ephemeral=true, revision=1}, 10.0.0.8:8000#true
+
+2021-10-22 11:20:29,762 INFO Client connection 10.0.0.8:59937#true disconnect, remove instances and subscribers
+
+2021-10-22 11:20:29,762 INFO Client connection 10.0.0.8:54809#true disconnect, remove instances and subscribers
+
+2021-10-22 11:20:34,764 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-22 11:20:39,772 INFO Client connection 10.0.0.8:8000#true disconnect, remove instances and subscribers
+
+2021-10-22 11:21:54,904 WARN namespace : public, [DEFAULT_GROUP@@gateway] services are automatically cleaned
+
+2021-10-22 11:21:54,905 WARN namespace : public, [DEFAULT_GROUP@@uaa-server] services are automatically cleaned
+
+2021-10-22 11:34:38,943 INFO Client connection 10.0.0.8:8001#true connect
+
+2021-10-22 11:34:38,943 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=0}, 10.0.0.8:8001#true
+
+2021-10-22 11:36:44,974 INFO Client connection 10.0.0.8:57358#true connect
+
+2021-10-22 11:36:45,634 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-22 11:36:45,634 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=0}, 10.0.0.8:9900#true
+
+2021-10-22 11:37:45,051 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=1}, 10.0.0.8:9900#true
+
+2021-10-22 11:38:16,453 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-22 11:38:21,461 INFO Client connection 10.0.0.8:57358#true disconnect, remove instances and subscribers
+
+2021-10-22 11:38:22,484 INFO Client connection 10.0.0.8:52997#true connect
+
+2021-10-22 11:38:23,112 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-22 11:38:23,112 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=2}, 10.0.0.8:9900#true
+
+2021-10-22 11:40:56,307 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=3}, 10.0.0.8:9900#true
+
+2021-10-22 11:40:56,470 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=1}, 10.0.0.8:8001#true
+
+2021-10-22 11:41:26,751 INFO Client connection 10.0.0.8:52997#true disconnect, remove instances and subscribers
+
+2021-10-22 11:41:26,751 INFO Client connection 10.0.0.8:8001#true disconnect, remove instances and subscribers
+
+2021-10-22 11:41:26,751 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-22 11:41:47,131 INFO Client connection 10.0.0.8:8001#true connect
+
+2021-10-22 11:41:47,131 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=2}, 10.0.0.8:8001#true
+
+2021-10-22 11:42:39,951 INFO Client connection 10.0.0.8:55956#true connect
+
+2021-10-22 11:42:40,657 INFO Client connection 10.0.0.8:9900#true connect
+
+2021-10-22 11:42:40,657 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=4}, 10.0.0.8:9900#true
+
+2021-10-22 11:43:44,754 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway', ephemeral=true, revision=5}, 10.0.0.8:9900#true
+
+2021-10-22 11:43:44,919 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=3}, 10.0.0.8:8001#true
+
+2021-10-22 11:44:16,974 INFO Client connection 10.0.0.8:55956#true disconnect, remove instances and subscribers
+
+2021-10-22 11:44:16,974 INFO Client connection 10.0.0.8:8001#true disconnect, remove instances and subscribers
+
+2021-10-22 11:44:16,974 INFO Client connection 10.0.0.8:9900#true disconnect, remove instances and subscribers
+
+2021-10-22 11:44:55,100 WARN namespace : public, [DEFAULT_GROUP@@gateway] services are automatically cleaned
+
+2021-10-22 11:44:55,101 WARN namespace : public, [DEFAULT_GROUP@@gateway-service] services are automatically cleaned
+
+2021-10-22 13:51:35,394 INFO Client connection 10.0.0.8:8001#true connect
+
+2021-10-22 13:51:35,397 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=0}, 10.0.0.8:8001#true
+
+2021-10-22 14:11:52,061 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-client', ephemeral=true, revision=0}, 10.0.0.8:8001#true
+
+2021-10-22 14:11:57,622 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=1}, ip: {"ip":"10.0.0.8","port":8001,"healthy":false,"cluster":"DEFAULT","extendDatum":{"customInstanceId":"10.0.0.8#8001#DEFAULT#DEFAULT_GROUP@@gateway-service"},"lastHeartBeatTime":1634883083368,"metadataId":"10.0.0.8:8001:DEFAULT"}
+
+2021-10-22 14:11:57,622 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=1}, 10.0.0.8:8001#true
+
+2021-10-22 14:13:05,998 WARN namespace : public, [DEFAULT_GROUP@@gateway-service] services are automatically cleaned
+
+2021-10-22 14:14:52,096 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-client', ephemeral=true, revision=1}, 10.0.0.8:8001#true
+
+2021-10-22 14:15:24,150 INFO Client connection 10.0.0.8:8001#true disconnect, remove instances and subscribers
+
+2021-10-22 14:16:06,037 WARN namespace : public, [DEFAULT_GROUP@@gateway-client] services are automatically cleaned
+
+2021-10-22 14:29:27,345 INFO Client connection 10.0.0.8:8001#true connect
+
+2021-10-22 14:29:27,348 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-client', ephemeral=true, revision=0}, 10.0.0.8:8001#true
+
+2021-10-22 14:30:11,972 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-client', ephemeral=true, revision=1}, 10.0.0.8:8001#true
+
+2021-10-22 14:30:12,049 INFO Client connection 10.0.0.8:56147#true connect
+
+2021-10-22 14:32:06,018 INFO Client connection 10.0.0.8:56147#true disconnect, remove instances and subscribers
+
+2021-10-22 14:32:12,672 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gateway-client', ephemeral=true, revision=2}, ip: {"ip":"10.0.0.8","port":8001,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"10.0.0.8#8001#DEFAULT#DEFAULT_GROUP@@gateway-client"},"lastHeartBeatTime":1634884297983,"metadataId":"10.0.0.8:8001:DEFAULT"}
+
+2021-10-22 14:32:12,672 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-client', ephemeral=true, revision=2}, 10.0.0.8:8001#true
+
+2021-10-22 14:32:16,034 INFO Client connection 10.0.0.8:8001#true disconnect, remove instances and subscribers
+
+2021-10-22 14:34:06,218 WARN namespace : public, [DEFAULT_GROUP@@gateway-client] services are automatically cleaned
+
+2021-10-22 14:35:13,536 INFO Client connection 10.0.0.8:8002#true connect
+
+2021-10-22 14:35:13,536 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=0}, 10.0.0.8:8002#true
+
+2021-10-22 14:36:18,623 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=1}, ip: {"ip":"10.0.0.8","port":8002,"healthy":false,"cluster":"DEFAULT","extendDatum":{"customInstanceId":"10.0.0.8#8002#DEFAULT#DEFAULT_GROUP@@gateway-service"},"lastHeartBeatTime":1634884543642,"metadataId":"10.0.0.8:8002:DEFAULT"}
+
+2021-10-22 14:36:18,623 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=1}, 10.0.0.8:8002#true
+
+2021-10-22 14:36:21,441 INFO Client connection 10.0.0.8:8002#true disconnect, remove instances and subscribers
+
+2021-10-22 14:38:06,267 WARN namespace : public, [DEFAULT_GROUP@@gateway-service] services are automatically cleaned
+
+2021-10-22 15:05:11,006 INFO Client connection 10.0.0.8:54379#true connect
+
+2021-10-22 15:05:12,463 INFO Client connection 10.0.0.8:8002#true connect
+
+2021-10-22 15:05:12,464 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=0}, 10.0.0.8:8002#true
+
+2021-10-22 15:07:13,668 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=1}, 10.0.0.8:8002#true
+
+2021-10-22 15:07:39,636 INFO Client connection 10.0.0.8:54379#true disconnect, remove instances and subscribers
+
+2021-10-22 15:07:44,642 INFO Client connection 10.0.0.8:8002#true disconnect, remove instances and subscribers
+
+2021-10-22 15:09:06,521 WARN namespace : public, [DEFAULT_GROUP@@gateway-service] services are automatically cleaned
+
+2021-10-22 15:09:26,422 INFO Client connection 10.0.0.8:54214#true connect
+
+2021-10-22 15:09:27,504 INFO Client connection 10.0.0.8:8002#true connect
+
+2021-10-22 15:09:27,504 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=0}, 10.0.0.8:8002#true
+
+2021-10-22 15:10:15,931 INFO Client connection 10.0.0.8:8001#true connect
+
+2021-10-22 15:10:15,931 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-client', ephemeral=true, revision=0}, 10.0.0.8:8001#true
+
+2021-10-22 15:13:55,986 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-service', ephemeral=true, revision=1}, 10.0.0.8:8002#true
+
+2021-10-22 15:13:56,234 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='gateway-client', ephemeral=true, revision=1}, 10.0.0.8:8001#true
+
+2021-10-22 15:14:28,437 INFO Client connection 10.0.0.8:8001#true disconnect, remove instances and subscribers
+
+2021-10-22 15:14:28,437 INFO Client connection 10.0.0.8:8002#true disconnect, remove instances and subscribers
+
+2021-10-22 15:14:33,448 INFO Client connection 10.0.0.8:54214#true disconnect, remove instances and subscribers
+
+2021-10-22 15:15:06,565 WARN namespace : public, [DEFAULT_GROUP@@gateway-service] services are automatically cleaned
+
+2021-10-22 15:15:06,566 WARN namespace : public, [DEFAULT_GROUP@@gateway-client] services are automatically cleaned
+

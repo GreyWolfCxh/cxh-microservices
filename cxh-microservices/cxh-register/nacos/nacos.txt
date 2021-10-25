@@ -1,0 +1,2 @@
+window下启动单机模式：
+在bin目录下 cmd ,执行命令 startup.cmd -m standalone
