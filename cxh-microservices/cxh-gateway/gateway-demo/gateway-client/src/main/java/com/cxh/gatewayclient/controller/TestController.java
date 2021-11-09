@@ -1,7 +1,12 @@
 package com.cxh.gatewayclient.controller;
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import com.alibaba.nacos.api.annotation.NacosInjected;
+import com.alibaba.nacos.api.exception.NacosException;
+import com.alibaba.nacos.api.naming.NamingService;
+import com.alibaba.nacos.api.naming.pojo.Instance;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
 
 /**
  * @author ChenXihua
@@ -9,11 +14,11 @@ import org.springframework.web.bind.annotation.RestController;
  * @date 2021/10/22 11:33
  */
 @RestController
-@RequestMapping("/testGrateway")
 public class TestController {
 
     @RequestMapping("/index")
     public String index(){
-        return "gateway-service";
+        return "gateway-client";
     }
+
 }

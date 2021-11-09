@@ -1,0 +1,16 @@
+server:
+  port: 8003
+
+spring:
+  application:
+    name: gateway-consumer #服务名
+  profiles:
+    active: dev #环境设置
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848 #nacos服务注册
+
+
+
+

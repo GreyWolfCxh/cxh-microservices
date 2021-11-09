@@ -15,5 +15,11 @@
     <description>网关使用demo</description>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>gateway-client</module>
+        <module>gateway-consumer</module>
+        <module>gateway-service</module>
+    </modules>
+
 
 </project>
