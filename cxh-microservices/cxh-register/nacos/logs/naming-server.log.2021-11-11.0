@@ -1,0 +1,74 @@
+2021-11-11 15:44:09,531 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-11-11 15:44:09,535 INFO listen for service meta change
+
+2021-11-11 15:44:13,911 INFO [NACOS-DISTRO] healthy server list changed, old: [10.0.0.8:8848], new: [10.0.0.8:8848]
+
+2021-11-11 15:44:13,911 INFO member change, new members [Member{ip='10.0.0.8', port=8848, state=UP, extendInfo={lastRefreshTime=1636616653909, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@1124c005, raftPort=7848, version=2.0.0}}]
+
+2021-11-11 15:50:47,284 INFO Client connection 10.0.0.8:65506#true connect
+
+2021-11-11 15:50:47,492 INFO Client connection 10.0.0.8:7000#true connect
+
+2021-11-11 15:50:47,493 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=0}, 10.0.0.8:7000#true
+
+2021-11-11 16:01:18,719 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, ip: {"ip":"10.0.0.8","port":7000,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"10.0.0.8#7000#DEFAULT#DEFAULT_GROUP@@user-center"},"lastHeartBeatTime":1636617647942,"metadataId":"10.0.0.8:7000:DEFAULT"}
+
+2021-11-11 16:01:18,719 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, 10.0.0.8:7000#true
+
+2021-11-11 16:01:19,448 INFO Client connection 10.0.0.8:65506#true disconnect, remove instances and subscribers
+
+2021-11-11 16:01:19,449 INFO Client connection 10.0.0.8:7000#true disconnect, remove instances and subscribers
+
+2021-11-11 16:01:21,412 INFO Client connection 10.0.0.8:49157#true connect
+
+2021-11-11 16:01:21,488 INFO Client connection 10.0.0.8:7000#true connect
+
+2021-11-11 16:01:21,488 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=2}, 10.0.0.8:7000#true
+
+2021-11-11 16:02:54,599 INFO Client connection 10.0.0.8:49157#true disconnect, remove instances and subscribers
+
+2021-11-11 16:03:01,193 INFO Client connection 10.0.0.8:49157#true connect
+
+2021-11-11 16:06:59,977 INFO Client connection 10.0.0.8:49157#true disconnect, remove instances and subscribers
+
+2021-11-11 16:07:07,136 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, ip: {"ip":"10.0.0.8","port":7000,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"10.0.0.8#7000#DEFAULT#DEFAULT_GROUP@@user-center"},"lastHeartBeatTime":1636617994058,"metadataId":"10.0.0.8:7000:DEFAULT"}
+
+2021-11-11 16:07:07,136 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, 10.0.0.8:7000#true
+
+2021-11-11 16:07:09,999 INFO Client connection 10.0.0.8:7000#true disconnect, remove instances and subscribers
+
+2021-11-11 16:08:44,504 WARN namespace : public, [DEFAULT_GROUP@@user-center] services are automatically cleaned
+
+2021-11-11 17:12:27,213 INFO Client connection 10.0.0.8:61429#true connect
+
+2021-11-11 17:12:27,463 INFO Client connection 10.0.0.8:5000#true connect
+
+2021-11-11 17:12:27,464 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=0}, 10.0.0.8:5000#true
+
+2021-11-11 17:24:03,412 INFO Client connection 10.0.0.8:61429#true disconnect, remove instances and subscribers
+
+2021-11-11 17:24:13,715 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, ip: {"ip":"10.0.0.8","port":5000,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"10.0.0.8#5000#DEFAULT#DEFAULT_GROUP@@file-center"},"lastHeartBeatTime":1636622620063,"metadataId":"10.0.0.8:5000:DEFAULT"}
+
+2021-11-11 17:24:13,716 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, 10.0.0.8:5000#true
+
+2021-11-11 17:24:18,427 INFO Client connection 10.0.0.8:5000#true disconnect, remove instances and subscribers
+
+2021-11-11 17:25:45,468 WARN namespace : public, [DEFAULT_GROUP@@file-center] services are automatically cleaned
+
+2021-11-11 17:27:31,432 INFO Client connection 10.0.0.8:49588#true connect
+
+2021-11-11 17:27:31,610 INFO Client connection 10.0.0.8:5000#true connect
+
+2021-11-11 17:27:31,611 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=0}, 10.0.0.8:5000#true
+
+2021-11-11 17:36:17,542 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, ip: {"ip":"10.0.0.8","port":5000,"healthy":false,"cluster":"DEFAULT","extendDatum":{"preserved.register.source":"SPRING_CLOUD","customInstanceId":"10.0.0.8#5000#DEFAULT#DEFAULT_GROUP@@file-center"},"lastHeartBeatTime":1636623344512,"metadataId":"10.0.0.8:5000:DEFAULT"}
+
+2021-11-11 17:36:17,542 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, 10.0.0.8:5000#true
+
+2021-11-11 17:36:19,493 INFO Client connection 10.0.0.8:5000#true disconnect, remove instances and subscribers
+
+2021-11-11 17:36:19,493 INFO Client connection 10.0.0.8:49588#true disconnect, remove instances and subscribers
+
+2021-11-11 17:37:45,557 WARN namespace : public, [DEFAULT_GROUP@@file-center] services are automatically cleaned
+

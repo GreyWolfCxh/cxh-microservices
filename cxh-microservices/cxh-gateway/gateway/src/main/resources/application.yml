@@ -35,5 +35,17 @@ spring:
             - Path=/oauth/token
           filters:
             - PreserveHostHeader
-
-
+        - id: user-center
+          uri: lb://user-center
+          predicates:
+            - Path=/center/**
+          filters:
+            - StripPrefix=1
+            - PreserveHostHeader
+        - id: file-center
+          uri: lb://file-center
+          predicates:
+            - Path=/file/**
+          filters:
+            - StripPrefix=1
+            - PreserveHostHeader

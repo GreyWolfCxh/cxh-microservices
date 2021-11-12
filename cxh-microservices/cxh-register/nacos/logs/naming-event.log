@@ -1,4 +1,12 @@
-2021-11-09 10:16:01,839 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:7300@DEFAULT@code-generator, region: unknown, msg: client last beat: 1636424146320
+2021-11-11 16:01:03,662 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:7000@DEFAULT@user-center, region: unknown, msg: client last beat: 1636617647942
 
-2021-11-09 17:17:52,123 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:7100@DEFAULT@search-center, region: unknown, msg: client last beat: 1636449453373
+2021-11-11 16:02:46,676 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:7000@DEFAULT@user-center, region: unknown, msg: client last beat: 1636617748583
+
+2021-11-11 16:03:01,194 INFO service: DEFAULT_GROUP@@user-center {POS} {IP-ENABLED} valid: 10.0.0.8:7000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-11-11 16:06:52,099 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:7000@DEFAULT@user-center, region: unknown, msg: client last beat: 1636617994058
+
+2021-11-11 17:23:58,699 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:5000@DEFAULT@file-center, region: unknown, msg: client last beat: 1636622620063
+
+2021-11-11 17:36:02,518 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:5000@DEFAULT@file-center, region: unknown, msg: client last beat: 1636623344512
 

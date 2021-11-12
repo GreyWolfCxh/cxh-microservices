@@ -1,268 +1,136 @@
-2021-11-09 09:54:25,751 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+2021-11-12 16:43:59,950 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
 
-2021-11-09 09:54:25,931 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+2021-11-12 16:44:00,199 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
 
-2021-11-09 09:54:26,129 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+2021-11-12 16:44:00,413 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
 
-2021-11-09 09:54:26,144 INFO The number of active nodes increment to 1.
+2021-11-12 16:44:00,425 INFO The number of active nodes increment to 1.
 
-2021-11-09 09:54:27,171 INFO Starts FSMCaller successfully.
+2021-11-12 16:44:02,778 INFO Starts FSMCaller successfully.
 
-2021-11-09 09:54:27,204 INFO Loading snapshot, meta=last_included_index: 5
-last_included_term: 5
+2021-11-12 16:44:02,851 INFO Loading snapshot, meta=last_included_index: 8
+last_included_term: 8
 peers: "10.0.0.8:7848"
 .
 
-2021-11-09 09:54:27,341 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> onSnapshotLoadDone, last_included_index: 5
-last_included_term: 5
+2021-11-12 16:44:03,459 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> onSnapshotLoadDone, last_included_index: 8
+last_included_term: 8
 peers: "10.0.0.8:7848"
 
 
-2021-11-09 09:54:27,341 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> target priority value has changed from: 0, to: -1.
+2021-11-12 16:44:03,460 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> target priority value has changed from: 0, to: -1.
 
-2021-11-09 09:54:27,365 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> init, term=5, lastLogId=LogId [index=5, term=5], conf=10.0.0.8:7848, oldConf=.
+2021-11-12 16:44:03,489 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> init, term=8, lastLogId=LogId [index=8, term=8], conf=10.0.0.8:7848, oldConf=.
 
-2021-11-09 09:54:27,367 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> start vote and grant vote self, term=5.
+2021-11-12 16:44:03,491 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> start vote and grant vote self, term=8.
 
-2021-11-09 09:54:27,399 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data on windows.
+2021-11-12 16:44:03,761 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data on windows.
 
-2021-11-09 09:54:27,399 INFO Save raft meta, path=D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data, term=6, votedFor=10.0.0.8:7848, cost time=30 ms
+2021-11-12 16:44:03,761 INFO Save raft meta, path=D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data, term=9, votedFor=10.0.0.8:7848, cost time=268 ms
 
-2021-11-09 09:54:27,399 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> become leader of group, term=6, conf=10.0.0.8:7848, oldConf=.
+2021-11-12 16:44:03,762 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> become leader of group, term=9, conf=10.0.0.8:7848, oldConf=.
 
-2021-11-09 09:54:27,403 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+2021-11-12 16:44:03,766 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
 
-2021-11-09 09:54:27,405 WARN RPC server is not started in RaftGroupService.
+2021-11-12 16:44:03,769 WARN RPC server is not started in RaftGroupService.
 
-2021-11-09 09:54:27,405 INFO Start the RaftGroupService successfully.
+2021-11-12 16:44:03,769 INFO Start the RaftGroupService successfully.
 
-2021-11-09 09:54:27,426 INFO onLeaderStart: term=6.
+2021-11-12 16:44:03,828 INFO onLeaderStart: term=9.
 
-2021-11-09 09:54:27,465 INFO The number of active nodes increment to 2.
+2021-11-12 16:44:03,834 INFO The number of active nodes increment to 2.
 
-2021-11-09 09:54:27,575 WARN Channel in TRANSIENT_FAILURE state: 10.0.0.8:7848.
+2021-11-12 16:44:04,026 WARN Channel in TRANSIENT_FAILURE state: 10.0.0.8:7848.
 
-2021-11-09 09:54:27,575 WARN Channel in SHUTDOWN state: 10.0.0.8:7848.
+2021-11-12 16:44:04,026 WARN Channel in SHUTDOWN state: 10.0.0.8:7848.
 
-2021-11-09 09:54:27,839 INFO Starts FSMCaller successfully.
+2021-11-12 16:44:04,869 INFO Starts FSMCaller successfully.
 
-2021-11-09 09:54:27,846 INFO Loading snapshot, meta=last_included_index: 5
-last_included_term: 5
-peers: "10.0.0.8:7848"
-.
-
-2021-11-09 09:54:27,889 INFO Node <naming_instance_metadata/10.0.0.8:7848> onSnapshotLoadDone, last_included_index: 5
-last_included_term: 5
-peers: "10.0.0.8:7848"
-
-
-2021-11-09 09:54:27,889 INFO Node <naming_instance_metadata/10.0.0.8:7848> target priority value has changed from: 0, to: -1.
-
-2021-11-09 09:54:27,890 INFO Node <naming_instance_metadata/10.0.0.8:7848> init, term=5, lastLogId=LogId [index=5, term=5], conf=10.0.0.8:7848, oldConf=.
-
-2021-11-09 09:54:27,891 INFO Node <naming_instance_metadata/10.0.0.8:7848> start vote and grant vote self, term=5.
-
-2021-11-09 09:54:27,979 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
-
-2021-11-09 09:54:27,979 INFO Save raft meta, path=D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=6, votedFor=10.0.0.8:7848, cost time=88 ms
-
-2021-11-09 09:54:27,979 INFO Node <naming_instance_metadata/10.0.0.8:7848> become leader of group, term=6, conf=10.0.0.8:7848, oldConf=.
-
-2021-11-09 09:54:27,979 WARN RPC server is not started in RaftGroupService.
-
-2021-11-09 09:54:27,979 INFO Start the RaftGroupService successfully.
-
-2021-11-09 09:54:27,983 INFO The number of active nodes increment to 3.
-
-2021-11-09 09:54:28,041 INFO onLeaderStart: term=6.
-
-2021-11-09 09:54:28,414 INFO Starts FSMCaller successfully.
-
-2021-11-09 09:54:28,420 INFO Loading snapshot, meta=last_included_index: 5
-last_included_term: 5
+2021-11-12 16:44:04,883 INFO Loading snapshot, meta=last_included_index: 8
+last_included_term: 8
 peers: "10.0.0.8:7848"
 .
 
-2021-11-09 09:54:28,441 INFO Node <naming_service_metadata/10.0.0.8:7848> onSnapshotLoadDone, last_included_index: 5
-last_included_term: 5
+2021-11-12 16:44:04,926 INFO Node <naming_instance_metadata/10.0.0.8:7848> onSnapshotLoadDone, last_included_index: 8
+last_included_term: 8
 peers: "10.0.0.8:7848"
 
 
-2021-11-09 09:54:28,442 INFO Node <naming_service_metadata/10.0.0.8:7848> target priority value has changed from: 0, to: -1.
+2021-11-12 16:44:04,926 INFO Node <naming_instance_metadata/10.0.0.8:7848> target priority value has changed from: 0, to: -1.
 
-2021-11-09 09:54:28,442 INFO Node <naming_service_metadata/10.0.0.8:7848> init, term=5, lastLogId=LogId [index=5, term=5], conf=10.0.0.8:7848, oldConf=.
+2021-11-12 16:44:04,946 INFO Node <naming_instance_metadata/10.0.0.8:7848> init, term=8, lastLogId=LogId [index=8, term=8], conf=10.0.0.8:7848, oldConf=.
 
-2021-11-09 09:54:28,443 INFO Node <naming_service_metadata/10.0.0.8:7848> start vote and grant vote self, term=5.
+2021-11-12 16:44:04,947 INFO Node <naming_instance_metadata/10.0.0.8:7848> start vote and grant vote self, term=8.
 
-2021-11-09 09:54:28,482 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+2021-11-12 16:44:05,022 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
 
-2021-11-09 09:54:28,482 INFO Save raft meta, path=D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=6, votedFor=10.0.0.8:7848, cost time=38 ms
+2021-11-12 16:44:05,022 INFO Save raft meta, path=D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=9, votedFor=10.0.0.8:7848, cost time=75 ms
 
-2021-11-09 09:54:28,482 INFO Node <naming_service_metadata/10.0.0.8:7848> become leader of group, term=6, conf=10.0.0.8:7848, oldConf=.
+2021-11-12 16:44:05,022 INFO Node <naming_instance_metadata/10.0.0.8:7848> become leader of group, term=9, conf=10.0.0.8:7848, oldConf=.
 
-2021-11-09 09:54:28,482 WARN RPC server is not started in RaftGroupService.
+2021-11-12 16:44:05,023 WARN RPC server is not started in RaftGroupService.
 
-2021-11-09 09:54:28,482 INFO Start the RaftGroupService successfully.
+2021-11-12 16:44:05,023 INFO Start the RaftGroupService successfully.
 
-2021-11-09 09:54:28,520 INFO onLeaderStart: term=6.
+2021-11-12 16:44:05,069 INFO onLeaderStart: term=9.
 
-2021-11-09 10:11:05,233 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+2021-11-12 16:44:05,081 INFO The number of active nodes increment to 3.
 
-2021-11-09 10:11:05,234 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_6.
+2021-11-12 16:44:05,102 ERROR Fail to connect 10.0.0.8:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: DEADLINE_EXCEEDED: deadline exceeded after 901926400ns. [buffered_nanos=959198999, waiting_for_connection].
 
-2021-11-09 10:11:05,234 INFO Renaming D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_6.
+2021-11-12 16:44:05,102 ERROR Fail to connect peer 10.0.0.8:7848 to get leader for group naming_persistent_service_v2.
 
-2021-11-09 10:11:05,234 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_5.
+2021-11-12 16:44:05,762 INFO Starts FSMCaller successfully.
 
-2021-11-09 10:20:16,933 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
-
-2021-11-09 10:20:16,933 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_6.
-
-2021-11-09 10:20:16,934 INFO Renaming D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_6.
-
-2021-11-09 10:20:16,934 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_5.
-
-2021-11-09 10:22:48,768 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp on windows.
-
-2021-11-09 10:22:48,768 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_6.
-
-2021-11-09 10:22:48,768 INFO Renaming D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp to D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_6.
-
-2021-11-09 10:22:48,769 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_5.
-
-2021-11-09 16:31:28,266 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
-
-2021-11-09 16:31:28,616 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
-
-2021-11-09 16:31:28,911 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
-
-2021-11-09 16:31:28,918 INFO The number of active nodes increment to 1.
-
-2021-11-09 16:31:30,621 INFO Starts FSMCaller successfully.
-
-2021-11-09 16:31:30,683 INFO Loading snapshot, meta=last_included_index: 6
-last_included_term: 6
+2021-11-12 16:44:05,767 INFO Loading snapshot, meta=last_included_index: 8
+last_included_term: 8
 peers: "10.0.0.8:7848"
 .
 
-2021-11-09 16:31:31,177 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> onSnapshotLoadDone, last_included_index: 6
-last_included_term: 6
+2021-11-12 16:44:05,774 INFO Node <naming_service_metadata/10.0.0.8:7848> onSnapshotLoadDone, last_included_index: 8
+last_included_term: 8
 peers: "10.0.0.8:7848"
 
 
-2021-11-09 16:31:31,177 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> target priority value has changed from: 0, to: -1.
+2021-11-12 16:44:05,774 INFO Node <naming_service_metadata/10.0.0.8:7848> target priority value has changed from: 0, to: -1.
 
-2021-11-09 16:31:31,314 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> init, term=6, lastLogId=LogId [index=6, term=6], conf=10.0.0.8:7848, oldConf=.
+2021-11-12 16:44:05,775 INFO Node <naming_service_metadata/10.0.0.8:7848> init, term=8, lastLogId=LogId [index=8, term=8], conf=10.0.0.8:7848, oldConf=.
 
-2021-11-09 16:31:31,319 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> start vote and grant vote self, term=6.
+2021-11-12 16:44:05,777 INFO Node <naming_service_metadata/10.0.0.8:7848> start vote and grant vote self, term=8.
 
-2021-11-09 16:31:31,436 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data on windows.
+2021-11-12 16:44:05,893 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
 
-2021-11-09 16:31:31,437 INFO Save raft meta, path=D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data, term=7, votedFor=10.0.0.8:7848, cost time=112 ms
+2021-11-12 16:44:05,894 INFO Save raft meta, path=D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=9, votedFor=10.0.0.8:7848, cost time=117 ms
 
-2021-11-09 16:31:31,437 INFO Node <naming_persistent_service_v2/10.0.0.8:7848> become leader of group, term=7, conf=10.0.0.8:7848, oldConf=.
+2021-11-12 16:44:05,894 INFO Node <naming_service_metadata/10.0.0.8:7848> become leader of group, term=9, conf=10.0.0.8:7848, oldConf=.
 
-2021-11-09 16:31:31,445 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+2021-11-12 16:44:05,895 WARN RPC server is not started in RaftGroupService.
 
-2021-11-09 16:31:31,449 WARN RPC server is not started in RaftGroupService.
+2021-11-12 16:44:05,895 INFO Start the RaftGroupService successfully.
 
-2021-11-09 16:31:31,449 INFO Start the RaftGroupService successfully.
+2021-11-12 16:44:05,928 INFO onLeaderStart: term=9.
 
-2021-11-09 16:31:31,560 INFO The number of active nodes increment to 2.
+2021-11-12 17:00:30,219 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
 
-2021-11-09 16:31:31,560 INFO onLeaderStart: term=7.
+2021-11-12 17:00:30,220 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_9.
 
-2021-11-09 16:31:31,869 WARN Channel in TRANSIENT_FAILURE state: 10.0.0.8:7848.
+2021-11-12 17:00:30,220 INFO Renaming D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_9.
 
-2021-11-09 16:31:31,870 WARN Channel in SHUTDOWN state: 10.0.0.8:7848.
+2021-11-12 17:00:30,221 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_8.
 
-2021-11-09 16:31:32,993 ERROR Fail to connect 10.0.0.8:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: DEADLINE_EXCEEDED: deadline exceeded after 873971800ns. [buffered_nanos=982562100, waiting_for_connection].
+2021-11-12 17:03:02,106 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp on windows.
 
-2021-11-09 16:31:32,993 ERROR Fail to connect peer 10.0.0.8:7848 to get leader for group naming_persistent_service_v2.
+2021-11-12 17:03:02,106 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_9.
 
-2021-11-09 16:31:33,338 INFO Starts FSMCaller successfully.
+2021-11-12 17:03:02,106 INFO Renaming D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp to D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_9.
 
-2021-11-09 16:31:33,420 INFO Loading snapshot, meta=last_included_index: 6
-last_included_term: 6
-peers: "10.0.0.8:7848"
-.
+2021-11-12 17:03:02,107 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_8.
 
-2021-11-09 16:31:33,491 INFO Node <naming_instance_metadata/10.0.0.8:7848> onSnapshotLoadDone, last_included_index: 6
-last_included_term: 6
-peers: "10.0.0.8:7848"
+2021-11-12 17:06:10,047 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
 
+2021-11-12 17:06:10,047 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_9.
 
-2021-11-09 16:31:33,492 INFO Node <naming_instance_metadata/10.0.0.8:7848> target priority value has changed from: 0, to: -1.
+2021-11-12 17:06:10,047 INFO Renaming D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_9.
 
-2021-11-09 16:31:33,493 INFO Node <naming_instance_metadata/10.0.0.8:7848> init, term=6, lastLogId=LogId [index=6, term=6], conf=10.0.0.8:7848, oldConf=.
-
-2021-11-09 16:31:33,493 INFO Node <naming_instance_metadata/10.0.0.8:7848> start vote and grant vote self, term=6.
-
-2021-11-09 16:31:33,629 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
-
-2021-11-09 16:31:33,629 INFO Save raft meta, path=D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=7, votedFor=10.0.0.8:7848, cost time=136 ms
-
-2021-11-09 16:31:33,629 INFO Node <naming_instance_metadata/10.0.0.8:7848> become leader of group, term=7, conf=10.0.0.8:7848, oldConf=.
-
-2021-11-09 16:31:33,629 WARN RPC server is not started in RaftGroupService.
-
-2021-11-09 16:31:33,630 INFO Start the RaftGroupService successfully.
-
-2021-11-09 16:31:33,644 INFO The number of active nodes increment to 3.
-
-2021-11-09 16:31:33,701 INFO onLeaderStart: term=7.
-
-2021-11-09 16:31:35,130 INFO Starts FSMCaller successfully.
-
-2021-11-09 16:31:35,131 INFO Loading snapshot, meta=last_included_index: 6
-last_included_term: 6
-peers: "10.0.0.8:7848"
-.
-
-2021-11-09 16:31:35,171 INFO Node <naming_service_metadata/10.0.0.8:7848> onSnapshotLoadDone, last_included_index: 6
-last_included_term: 6
-peers: "10.0.0.8:7848"
-
-
-2021-11-09 16:31:35,171 INFO Node <naming_service_metadata/10.0.0.8:7848> target priority value has changed from: 0, to: -1.
-
-2021-11-09 16:31:35,172 INFO Node <naming_service_metadata/10.0.0.8:7848> init, term=6, lastLogId=LogId [index=6, term=6], conf=10.0.0.8:7848, oldConf=.
-
-2021-11-09 16:31:35,173 INFO Node <naming_service_metadata/10.0.0.8:7848> start vote and grant vote self, term=6.
-
-2021-11-09 16:31:35,315 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
-
-2021-11-09 16:31:35,316 INFO Save raft meta, path=D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=7, votedFor=10.0.0.8:7848, cost time=142 ms
-
-2021-11-09 16:31:35,316 INFO Node <naming_service_metadata/10.0.0.8:7848> become leader of group, term=7, conf=10.0.0.8:7848, oldConf=.
-
-2021-11-09 16:31:35,316 WARN RPC server is not started in RaftGroupService.
-
-2021-11-09 16:31:35,316 INFO Start the RaftGroupService successfully.
-
-2021-11-09 16:31:35,401 INFO onLeaderStart: term=7.
-
-2021-11-09 16:52:50,481 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp on windows.
-
-2021-11-09 16:52:50,482 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_7.
-
-2021-11-09 16:52:50,482 INFO Renaming D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp to D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_7.
-
-2021-11-09 16:52:50,498 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_6.
-
-2021-11-09 16:58:20,845 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
-
-2021-11-09 16:58:20,845 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_7.
-
-2021-11-09 16:58:20,868 INFO Renaming D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_7.
-
-2021-11-09 16:58:20,870 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_6.
-
-2021-11-09 17:00:02,983 WARN Unable to fsync directory D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
-
-2021-11-09 17:00:02,983 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_7.
-
-2021-11-09 17:00:02,995 INFO Renaming D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_7.
-
-2021-11-09 17:00:02,996 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_6.
+2021-11-12 17:06:10,048 INFO Deleting snapshot D:\project\microservice\cxh-microservices\cxh-register\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_8.
 

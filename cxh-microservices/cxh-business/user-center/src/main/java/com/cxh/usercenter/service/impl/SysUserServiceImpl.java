@@ -47,8 +47,8 @@ public class SysUserServiceImpl extends SuperServiceImpl<SysUserMapper, SysUser>
     @Resource
     private SysRoleMenuMapper roleMenuMapper;
 
-    @Autowired
-    private DistributedLock lock;
+   /* @Autowired
+    private DistributedLock lock;*/
 
     @Override
     public LoginAppUser findByUsername(String username) {
@@ -228,9 +228,10 @@ public class SysUserServiceImpl extends SuperServiceImpl<SysUserMapper, SysUser>
             sysUser.setEnabled(Boolean.TRUE);
         }
         String username = sysUser.getUsername();
-        boolean result = super.saveOrUpdateIdempotency(sysUser, lock
+        boolean result = true;
+      /*  boolean result = super.saveOrUpdateIdempotency(sysUser, lock
                 , LOCK_KEY_USERNAME+username, new QueryWrapper<SysUser>().eq("username", username)
-                , username+"已存在");
+                , username+"已存在");*/
         //更新角色
         if (result && StrUtil.isNotEmpty(sysUser.getRoleId())) {
             roleUserService.deleteUserRole(sysUser.getId(), null);

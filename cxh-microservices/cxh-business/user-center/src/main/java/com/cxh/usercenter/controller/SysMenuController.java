@@ -131,7 +131,9 @@ public class SysMenuController {
     public PageResult<SysMenu> findAlls() {
         List<SysMenu> list = menuService.findAll();
         //return PageResult.<SysMenu>builder().data(list).code(0).count((long) list.size()).build();
-        return null;
+        PageResult pageResult = new PageResult(0, 10, list.size());
+        pageResult.addAll(list);
+        return pageResult;
     }
 
     @ApiOperation(value = "获取菜单以及顶级菜单")

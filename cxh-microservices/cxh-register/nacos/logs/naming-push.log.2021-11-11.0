@@ -1,0 +1,1800 @@
+2021-11-11 15:50:47,494 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}
+
+2021-11-11 15:50:47,837 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:50:47,895 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008675831458100
+
+2021-11-11 15:50:47,897 INFO send udp packet: 10.0.0.8,65506,2008675831458100
+
+2021-11-11 15:50:47,958 INFO [PUSH-SUCC] 129ms, all delay time 673ms, SLA 464ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:50:49,039 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:50:49,039 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008677033269000
+
+2021-11-11 15:50:49,040 INFO send udp packet: 10.0.0.8,65506,2008677033269000
+
+2021-11-11 15:50:49,041 INFO [PUSH-SUCC] 2ms, all delay time 590ms, SLA 1547ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:50:59,056 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:50:59,057 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008687050991400
+
+2021-11-11 15:50:59,057 INFO send udp packet: 10.0.0.8,65506,2008687050991400
+
+2021-11-11 15:50:59,060 INFO [PUSH-SUCC] 4ms, all delay time 596ms, SLA 11566ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:51:09,076 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:51:09,078 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008697070311800
+
+2021-11-11 15:51:09,078 INFO send udp packet: 10.0.0.8,65506,2008697070311800
+
+2021-11-11 15:51:09,081 INFO [PUSH-SUCC] 7ms, all delay time 604ms, SLA 21587ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:51:19,053 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:51:19,055 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008707047410700
+
+2021-11-11 15:51:19,055 INFO send udp packet: 10.0.0.8,65506,2008707047410700
+
+2021-11-11 15:51:19,059 INFO [PUSH-SUCC] 7ms, all delay time 566ms, SLA 31565ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:51:29,029 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:51:29,030 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008717023656200
+
+2021-11-11 15:51:29,030 INFO send udp packet: 10.0.0.8,65506,2008717023656200
+
+2021-11-11 15:51:29,035 INFO [PUSH-SUCC] 6ms, all delay time 524ms, SLA 41541ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:51:39,106 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:51:39,107 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008727100704300
+
+2021-11-11 15:51:39,107 INFO send udp packet: 10.0.0.8,65506,2008727100704300
+
+2021-11-11 15:51:39,108 INFO [PUSH-SUCC] 2ms, all delay time 584ms, SLA 51614ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:51:49,075 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:51:49,077 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008737069641200
+
+2021-11-11 15:51:49,077 INFO send udp packet: 10.0.0.8,65506,2008737069641200
+
+2021-11-11 15:51:49,078 INFO [PUSH-SUCC] 3ms, all delay time 546ms, SLA 61584ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:51:59,072 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:51:59,072 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008747066075100
+
+2021-11-11 15:51:59,072 INFO send udp packet: 10.0.0.8,65506,2008747066075100
+
+2021-11-11 15:51:59,074 INFO [PUSH-SUCC] 2ms, all delay time 535ms, SLA 71580ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:52:09,140 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:52:09,141 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008757134326300
+
+2021-11-11 15:52:09,141 INFO send udp packet: 10.0.0.8,65506,2008757134326300
+
+2021-11-11 15:52:09,145 INFO [PUSH-SUCC] 5ms, all delay time 579ms, SLA 81651ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:52:19,156 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:52:19,156 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008767150977600
+
+2021-11-11 15:52:19,157 INFO send udp packet: 10.0.0.8,65506,2008767150977600
+
+2021-11-11 15:52:19,158 INFO [PUSH-SUCC] 2ms, all delay time 584ms, SLA 91664ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:52:29,114 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:52:29,115 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008777108548000
+
+2021-11-11 15:52:29,115 INFO send udp packet: 10.0.0.8,65506,2008777108548000
+
+2021-11-11 15:52:29,116 INFO [PUSH-SUCC] 2ms, all delay time 518ms, SLA 101622ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:52:39,136 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:52:39,137 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008787130322500
+
+2021-11-11 15:52:39,137 INFO send udp packet: 10.0.0.8,65506,2008787130322500
+
+2021-11-11 15:52:39,141 INFO [PUSH-SUCC] 5ms, all delay time 528ms, SLA 111647ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:52:49,145 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:52:49,146 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008797139263700
+
+2021-11-11 15:52:49,146 INFO send udp packet: 10.0.0.8,65506,2008797139263700
+
+2021-11-11 15:52:49,155 INFO [PUSH-SUCC] 11ms, all delay time 516ms, SLA 121661ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:52:59,245 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:52:59,246 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008807240229300
+
+2021-11-11 15:52:59,246 INFO send udp packet: 10.0.0.8,65506,2008807240229300
+
+2021-11-11 15:52:59,259 INFO [PUSH-SUCC] 13ms, all delay time 604ms, SLA 131764ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:53:09,236 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:53:09,237 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008817230221600
+
+2021-11-11 15:53:09,237 INFO send udp packet: 10.0.0.8,65506,2008817230221600
+
+2021-11-11 15:53:09,244 INFO [PUSH-SUCC] 9ms, all delay time 577ms, SLA 141750ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:53:19,236 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:53:19,237 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008827230553200
+
+2021-11-11 15:53:19,237 INFO send udp packet: 10.0.0.8,65506,2008827230553200
+
+2021-11-11 15:53:19,240 INFO [PUSH-SUCC] 4ms, all delay time 561ms, SLA 151746ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:53:29,247 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:53:29,248 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008837241915800
+
+2021-11-11 15:53:29,248 INFO send udp packet: 10.0.0.8,65506,2008837241915800
+
+2021-11-11 15:53:29,250 INFO [PUSH-SUCC] 3ms, all delay time 554ms, SLA 161756ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:53:39,242 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:53:39,244 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008847236673800
+
+2021-11-11 15:53:39,244 INFO send udp packet: 10.0.0.8,65506,2008847236673800
+
+2021-11-11 15:53:39,248 INFO [PUSH-SUCC] 6ms, all delay time 540ms, SLA 171754ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:53:49,242 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:53:49,242 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008857236595800
+
+2021-11-11 15:53:49,242 INFO send udp packet: 10.0.0.8,65506,2008857236595800
+
+2021-11-11 15:53:49,244 INFO [PUSH-SUCC] 2ms, all delay time 523ms, SLA 181750ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:53:59,295 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:53:59,295 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008867289554600
+
+2021-11-11 15:53:59,296 INFO send udp packet: 10.0.0.8,65506,2008867289554600
+
+2021-11-11 15:53:59,297 INFO [PUSH-SUCC] 2ms, all delay time 564ms, SLA 191803ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:54:09,304 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:54:09,305 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008877298660500
+
+2021-11-11 15:54:09,305 INFO send udp packet: 10.0.0.8,65506,2008877298660500
+
+2021-11-11 15:54:09,309 INFO [PUSH-SUCC] 5ms, all delay time 564ms, SLA 201815ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:54:19,317 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:54:19,319 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008887312241500
+
+2021-11-11 15:54:19,319 INFO send udp packet: 10.0.0.8,65506,2008887312241500
+
+2021-11-11 15:54:19,323 INFO [PUSH-SUCC] 6ms, all delay time 566ms, SLA 211829ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:54:29,321 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:54:29,322 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008897315453600
+
+2021-11-11 15:54:29,322 INFO send udp packet: 10.0.0.8,65506,2008897315453600
+
+2021-11-11 15:54:29,326 INFO [PUSH-SUCC] 5ms, all delay time 556ms, SLA 221832ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:54:39,330 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:54:39,331 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008907324746600
+
+2021-11-11 15:54:39,332 INFO send udp packet: 10.0.0.8,65506,2008907324746600
+
+2021-11-11 15:54:39,336 INFO [PUSH-SUCC] 6ms, all delay time 555ms, SLA 231842ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:54:49,324 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:54:49,326 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008917319836800
+
+2021-11-11 15:54:49,326 INFO send udp packet: 10.0.0.8,65506,2008917319836800
+
+2021-11-11 15:54:49,330 INFO [PUSH-SUCC] 6ms, all delay time 539ms, SLA 241836ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:54:59,344 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:54:59,345 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008927338749400
+
+2021-11-11 15:54:59,345 INFO send udp packet: 10.0.0.8,65506,2008927338749400
+
+2021-11-11 15:54:59,349 INFO [PUSH-SUCC] 5ms, all delay time 541ms, SLA 251855ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:55:09,325 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:55:09,326 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008937319970800
+
+2021-11-11 15:55:09,327 INFO send udp packet: 10.0.0.8,65506,2008937319970800
+
+2021-11-11 15:55:09,331 INFO [PUSH-SUCC] 6ms, all delay time 515ms, SLA 261837ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:55:19,367 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:55:19,368 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008947361831000
+
+2021-11-11 15:55:19,369 INFO send udp packet: 10.0.0.8,65506,2008947361831000
+
+2021-11-11 15:55:19,373 INFO [PUSH-SUCC] 6ms, all delay time 537ms, SLA 271879ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:55:29,368 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:55:29,369 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008957362917700
+
+2021-11-11 15:55:29,369 INFO send udp packet: 10.0.0.8,65506,2008957362917700
+
+2021-11-11 15:55:29,373 INFO [PUSH-SUCC] 5ms, all delay time 527ms, SLA 281879ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:55:39,468 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:55:39,469 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008967462574700
+
+2021-11-11 15:55:39,469 INFO send udp packet: 10.0.0.8,65506,2008967462574700
+
+2021-11-11 15:55:39,473 INFO [PUSH-SUCC] 5ms, all delay time 603ms, SLA 291979ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:55:49,480 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:55:49,481 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008977474363300
+
+2021-11-11 15:55:49,481 INFO send udp packet: 10.0.0.8,65506,2008977474363300
+
+2021-11-11 15:55:49,483 INFO [PUSH-SUCC] 3ms, all delay time 596ms, SLA 301989ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:55:59,413 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:55:59,414 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008987407784100
+
+2021-11-11 15:55:59,414 INFO send udp packet: 10.0.0.8,65506,2008987407784100
+
+2021-11-11 15:55:59,418 INFO [PUSH-SUCC] 5ms, all delay time 507ms, SLA 311924ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:56:09,516 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:56:09,517 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2008997511273400
+
+2021-11-11 15:56:09,518 INFO send udp packet: 10.0.0.8,65506,2008997511273400
+
+2021-11-11 15:56:09,521 INFO [PUSH-SUCC] 5ms, all delay time 599ms, SLA 322027ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:56:19,515 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:56:19,516 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009007509783400
+
+2021-11-11 15:56:19,516 INFO send udp packet: 10.0.0.8,65506,2009007509783400
+
+2021-11-11 15:56:19,520 INFO [PUSH-SUCC] 5ms, all delay time 588ms, SLA 332026ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:56:29,517 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:56:29,518 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009017511821300
+
+2021-11-11 15:56:29,518 INFO send udp packet: 10.0.0.8,65506,2009017511821300
+
+2021-11-11 15:56:29,522 INFO [PUSH-SUCC] 5ms, all delay time 579ms, SLA 342028ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:56:39,531 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:56:39,532 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009027526441600
+
+2021-11-11 15:56:39,533 INFO send udp packet: 10.0.0.8,65506,2009027526441600
+
+2021-11-11 15:56:39,537 INFO [PUSH-SUCC] 6ms, all delay time 582ms, SLA 352043ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:56:49,518 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:56:49,519 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009037512158700
+
+2021-11-11 15:56:49,519 INFO send udp packet: 10.0.0.8,65506,2009037512158700
+
+2021-11-11 15:56:49,523 INFO [PUSH-SUCC] 6ms, all delay time 558ms, SLA 362029ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:56:59,539 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:56:59,539 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009047533234700
+
+2021-11-11 15:56:59,539 INFO send udp packet: 10.0.0.8,65506,2009047533234700
+
+2021-11-11 15:56:59,543 INFO [PUSH-SUCC] 4ms, all delay time 559ms, SLA 372049ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:57:09,512 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:57:09,513 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009057507264000
+
+2021-11-11 15:57:09,513 INFO send udp packet: 10.0.0.8,65506,2009057507264000
+
+2021-11-11 15:57:09,517 INFO [PUSH-SUCC] 5ms, all delay time 525ms, SLA 382023ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:57:19,560 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:57:19,561 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009067554528800
+
+2021-11-11 15:57:19,561 INFO send udp packet: 10.0.0.8,65506,2009067554528800
+
+2021-11-11 15:57:19,565 INFO [PUSH-SUCC] 5ms, all delay time 558ms, SLA 392071ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:57:29,568 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:57:29,569 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009077563525400
+
+2021-11-11 15:57:29,570 INFO send udp packet: 10.0.0.8,65506,2009077563525400
+
+2021-11-11 15:57:29,576 INFO [PUSH-SUCC] 8ms, all delay time 561ms, SLA 402082ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:57:39,577 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:57:39,578 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009087571386700
+
+2021-11-11 15:57:39,579 INFO send udp packet: 10.0.0.8,65506,2009087571386700
+
+2021-11-11 15:57:39,583 INFO [PUSH-SUCC] 5ms, all delay time 564ms, SLA 412088ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:57:49,535 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:57:49,536 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009097529955600
+
+2021-11-11 15:57:49,536 INFO send udp packet: 10.0.0.8,65506,2009097529955600
+
+2021-11-11 15:57:49,537 INFO [PUSH-SUCC] 2ms, all delay time 508ms, SLA 422043ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:57:59,547 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:57:59,548 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009107541933300
+
+2021-11-11 15:57:59,549 INFO send udp packet: 10.0.0.8,65506,2009107541933300
+
+2021-11-11 15:57:59,552 INFO [PUSH-SUCC] 5ms, all delay time 510ms, SLA 432058ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:58:09,566 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:58:09,567 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009117561214800
+
+2021-11-11 15:58:09,568 INFO send udp packet: 10.0.0.8,65506,2009117561214800
+
+2021-11-11 15:58:09,572 INFO [PUSH-SUCC] 6ms, all delay time 522ms, SLA 442078ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:58:19,572 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:58:19,572 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009127566223100
+
+2021-11-11 15:58:19,573 INFO send udp packet: 10.0.0.8,65506,2009127566223100
+
+2021-11-11 15:58:19,577 INFO [PUSH-SUCC] 5ms, all delay time 521ms, SLA 452083ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:58:29,581 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:58:29,583 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009137575937800
+
+2021-11-11 15:58:29,583 INFO send udp packet: 10.0.0.8,65506,2009137575937800
+
+2021-11-11 15:58:29,587 INFO [PUSH-SUCC] 6ms, all delay time 511ms, SLA 462093ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:58:39,667 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:58:39,670 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009147661927500
+
+2021-11-11 15:58:39,671 INFO send udp packet: 10.0.0.8,65506,2009147661927500
+
+2021-11-11 15:58:39,675 INFO [PUSH-SUCC] 8ms, all delay time 584ms, SLA 472181ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:58:49,680 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:58:49,681 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009157674673700
+
+2021-11-11 15:58:49,682 INFO send udp packet: 10.0.0.8,65506,2009157674673700
+
+2021-11-11 15:58:49,683 INFO [PUSH-SUCC] 3ms, all delay time 574ms, SLA 482189ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:58:59,720 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:58:59,721 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009167715255100
+
+2021-11-11 15:58:59,721 INFO send udp packet: 10.0.0.8,65506,2009167715255100
+
+2021-11-11 15:58:59,725 INFO [PUSH-SUCC] 5ms, all delay time 605ms, SLA 492231ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:59:09,722 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:59:09,724 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009177716687100
+
+2021-11-11 15:59:09,725 INFO send udp packet: 10.0.0.8,65506,2009177716687100
+
+2021-11-11 15:59:09,730 INFO [PUSH-SUCC] 9ms, all delay time 598ms, SLA 502236ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:59:19,734 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:59:19,734 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009187727978000
+
+2021-11-11 15:59:19,734 INFO send udp packet: 10.0.0.8,65506,2009187727978000
+
+2021-11-11 15:59:19,735 INFO [PUSH-SUCC] 1ms, all delay time 596ms, SLA 512241ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:59:38,322 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:59:38,323 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009206317420800
+
+2021-11-11 15:59:38,323 INFO send udp packet: 10.0.0.8,65506,2009206317420800
+
+2021-11-11 15:59:38,326 INFO [PUSH-SUCC] 4ms, all delay time 606ms, SLA 530832ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:59:48,297 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:59:48,298 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009216291143000
+
+2021-11-11 15:59:48,298 INFO send udp packet: 10.0.0.8,65506,2009216291143000
+
+2021-11-11 15:59:48,302 INFO [PUSH-SUCC] 5ms, all delay time 579ms, SLA 540808ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 15:59:58,406 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 15:59:58,406 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009226399597900
+
+2021-11-11 15:59:58,406 INFO send udp packet: 10.0.0.8,65506,2009226399597900
+
+2021-11-11 15:59:58,407 INFO [PUSH-SUCC] 1ms, all delay time 661ms, SLA 550913ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:00:08,279 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:00:08,280 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009236274273900
+
+2021-11-11 16:00:08,281 INFO send udp packet: 10.0.0.8,65506,2009236274273900
+
+2021-11-11 16:00:08,284 INFO [PUSH-SUCC] 5ms, all delay time 530ms, SLA 560790ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:00:18,322 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:00:18,323 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009246316277600
+
+2021-11-11 16:00:18,323 INFO send udp packet: 10.0.0.8,65506,2009246316277600
+
+2021-11-11 16:00:18,327 INFO [PUSH-SUCC] 5ms, all delay time 561ms, SLA 570833ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:00:28,362 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:00:28,363 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009256356110600
+
+2021-11-11 16:00:28,363 INFO send udp packet: 10.0.0.8,65506,2009256356110600
+
+2021-11-11 16:00:28,367 INFO [PUSH-SUCC] 6ms, all delay time 594ms, SLA 580873ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:00:38,349 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:00:38,350 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009266344114200
+
+2021-11-11 16:00:38,351 INFO send udp packet: 10.0.0.8,65506,2009266344114200
+
+2021-11-11 16:00:38,355 INFO [PUSH-SUCC] 6ms, all delay time 571ms, SLA 590861ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:00:48,376 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:00:48,376 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009276370481300
+
+2021-11-11 16:00:48,376 INFO send udp packet: 10.0.0.8,65506,2009276370481300
+
+2021-11-11 16:00:58,501 INFO retry to push data, key: 10.0.0.8,65506,2009276370481300
+
+2021-11-11 16:01:04,182 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:01:04,182 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009292175698800
+
+2021-11-11 16:01:04,182 INFO send udp packet: 10.0.0.8,65506,2009292175698800
+
+2021-11-11 16:01:08,506 WARN max re-push times reached, retry times 2, key: 10.0.0.8,65506,2009276370481300
+
+2021-11-11 16:01:08,506 ERROR [PUSH-FAIL] 20130ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=1}, reason=null, target=10.0.0.8
+
+2021-11-11 16:01:14,184 INFO retry to push data, key: 10.0.0.8,65506,2009292175698800
+
+2021-11-11 16:01:19,223 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:01:19,223 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:65506, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,65506,2009307217237300
+
+2021-11-11 16:01:19,223 INFO send udp packet: 10.0.0.8,65506,2009307217237300
+
+2021-11-11 16:01:21,488 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}
+
+2021-11-11 16:01:21,984 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:01:21,985 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009309978457700
+
+2021-11-11 16:01:21,985 INFO send udp packet: 10.0.0.8,49157,2009309978457700
+
+2021-11-11 16:01:22,041 INFO [PUSH-SUCC] 58ms, all delay time 629ms, SLA 553ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:01:23,002 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:01:23,004 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009310996956400
+
+2021-11-11 16:01:23,004 INFO send udp packet: 10.0.0.8,49157,2009310996956400
+
+2021-11-11 16:01:23,018 INFO [PUSH-SUCC] 16ms, all delay time 555ms, SLA 1530ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:01:24,186 WARN max re-push times reached, retry times 2, key: 10.0.0.8,65506,2009292175698800
+
+2021-11-11 16:01:24,186 ERROR [PUSH-FAIL] 20004ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, reason=null, target=10.0.0.8
+
+2021-11-11 16:01:29,227 INFO retry to push data, key: 10.0.0.8,65506,2009307217237300
+
+2021-11-11 16:01:32,977 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:01:32,978 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009320972429900
+
+2021-11-11 16:01:32,979 INFO send udp packet: 10.0.0.8,49157,2009320972429900
+
+2021-11-11 16:01:32,983 INFO [PUSH-SUCC] 6ms, all delay time 510ms, SLA 11495ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:01:39,230 WARN max re-push times reached, retry times 2, key: 10.0.0.8,65506,2009307217237300
+
+2021-11-11 16:01:39,231 ERROR [PUSH-FAIL] 20007ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, reason=null, target=10.0.0.8
+
+2021-11-11 16:01:43,055 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:01:43,056 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009331049998500
+
+2021-11-11 16:01:43,057 INFO send udp packet: 10.0.0.8,49157,2009331049998500
+
+2021-11-11 16:01:43,061 INFO [PUSH-SUCC] 6ms, all delay time 581ms, SLA 21573ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:01:52,996 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:01:52,996 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009340990852700
+
+2021-11-11 16:01:52,996 INFO send udp packet: 10.0.0.8,49157,2009340990852700
+
+2021-11-11 16:01:52,998 INFO [PUSH-SUCC] 2ms, all delay time 513ms, SLA 31510ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:02:03,088 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:02:03,089 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009351082547500
+
+2021-11-11 16:02:03,089 INFO send udp packet: 10.0.0.8,49157,2009351082547500
+
+2021-11-11 16:02:03,090 INFO [PUSH-SUCC] 2ms, all delay time 600ms, SLA 41602ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:02:13,074 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:02:13,075 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009361069089900
+
+2021-11-11 16:02:13,075 INFO send udp packet: 10.0.0.8,49157,2009361069089900
+
+2021-11-11 16:02:13,079 INFO [PUSH-SUCC] 5ms, all delay time 585ms, SLA 51591ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:02:23,078 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:02:23,078 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009371072375500
+
+2021-11-11 16:02:23,078 INFO send udp packet: 10.0.0.8,49157,2009371072375500
+
+2021-11-11 16:02:23,080 INFO [PUSH-SUCC] 2ms, all delay time 581ms, SLA 61592ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:02:47,231 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:02:47,232 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009395225707600
+
+2021-11-11 16:02:47,232 INFO send udp packet: 10.0.0.8,49157,2009395225707600
+
+2021-11-11 16:02:57,236 INFO retry to push data, key: 10.0.0.8,49157,2009395225707600
+
+2021-11-11 16:03:01,194 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}
+
+2021-11-11 16:03:01,751 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:03:01,753 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009409745703600
+
+2021-11-11 16:03:01,753 INFO send udp packet: 10.0.0.8,49157,2009409745703600
+
+2021-11-11 16:03:07,237 WARN max re-push times reached, retry times 2, key: 10.0.0.8,49157,2009395225707600
+
+2021-11-11 16:03:07,237 ERROR [PUSH-FAIL] 20006ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, reason=null, target=10.0.0.8
+
+2021-11-11 16:03:08,630 WARN ack takes too long from /10.0.0.8:49157 ack json: {"type": "push-ack", "lastRefTime":"2009395225707600", "data":""}
+
+2021-11-11 16:03:08,643 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 10.0.0.8,49157,2009395225707600, ack json: {"type": "push-ack", "lastRefTime":"2009395225707600", "data":""}
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpReceiver.run(UdpConnector.java:199)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-11-11 16:03:08,643 WARN ack takes too long from /10.0.0.8:49157 ack json: {"type": "push-ack", "lastRefTime":"2009395225707600", "data":""}
+
+2021-11-11 16:03:08,643 ERROR [NACOS-PUSH] error while receiving ack data
+
+java.lang.IllegalStateException: unable to find ackEntry for key: 10.0.0.8,49157,2009395225707600, ack json: {"type": "push-ack", "lastRefTime":"2009395225707600", "data":""}
+	at com.alibaba.nacos.naming.remote.udp.UdpConnector$UdpReceiver.run(UdpConnector.java:199)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-11-11 16:03:08,643 INFO [PUSH-SUCC] 6892ms, all delay time 7449ms, SLA 21967ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:03:19,238 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:03:19,239 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009427232751100
+
+2021-11-11 16:03:19,239 INFO send udp packet: 10.0.0.8,49157,2009427232751100
+
+2021-11-11 16:03:19,242 INFO [PUSH-SUCC] 4ms, all delay time 598ms, SLA 32566ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:03:29,231 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:03:29,231 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009437225443200
+
+2021-11-11 16:03:29,231 INFO send udp packet: 10.0.0.8,49157,2009437225443200
+
+2021-11-11 16:03:29,233 INFO [PUSH-SUCC] 2ms, all delay time 580ms, SLA 42557ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:03:39,255 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:03:39,256 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009447249518000
+
+2021-11-11 16:03:39,256 INFO send udp packet: 10.0.0.8,49157,2009447249518000
+
+2021-11-11 16:03:39,268 INFO [PUSH-SUCC] 13ms, all delay time 607ms, SLA 52592ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:03:49,270 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:03:49,271 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009457265339200
+
+2021-11-11 16:03:49,271 INFO send udp packet: 10.0.0.8,49157,2009457265339200
+
+2021-11-11 16:03:49,283 INFO [PUSH-SUCC] 13ms, all delay time 613ms, SLA 62607ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:03:59,269 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:03:59,270 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009467263480500
+
+2021-11-11 16:03:59,270 INFO send udp packet: 10.0.0.8,49157,2009467263480500
+
+2021-11-11 16:03:59,272 INFO [PUSH-SUCC] 3ms, all delay time 598ms, SLA 72596ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:04:09,192 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:04:09,192 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009477186367000
+
+2021-11-11 16:04:09,192 INFO send udp packet: 10.0.0.8,49157,2009477186367000
+
+2021-11-11 16:04:09,194 INFO [PUSH-SUCC] 2ms, all delay time 515ms, SLA 82518ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:04:19,209 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:04:19,210 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009487204069100
+
+2021-11-11 16:04:19,211 INFO send udp packet: 10.0.0.8,49157,2009487204069100
+
+2021-11-11 16:04:19,215 INFO [PUSH-SUCC] 6ms, all delay time 531ms, SLA 92539ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:04:29,216 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:04:29,216 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009497210568200
+
+2021-11-11 16:04:29,216 INFO send udp packet: 10.0.0.8,49157,2009497210568200
+
+2021-11-11 16:04:29,218 INFO [PUSH-SUCC] 2ms, all delay time 523ms, SLA 102542ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:04:39,320 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:04:39,321 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009507315252100
+
+2021-11-11 16:04:39,321 INFO send udp packet: 10.0.0.8,49157,2009507315252100
+
+2021-11-11 16:04:39,326 INFO [PUSH-SUCC] 6ms, all delay time 605ms, SLA 112650ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:04:49,292 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:04:49,293 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009517286162600
+
+2021-11-11 16:04:49,293 INFO send udp packet: 10.0.0.8,49157,2009517286162600
+
+2021-11-11 16:04:49,298 INFO [PUSH-SUCC] 6ms, all delay time 562ms, SLA 122622ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:04:59,271 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:04:59,272 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009527265713300
+
+2021-11-11 16:04:59,272 INFO send udp packet: 10.0.0.8,49157,2009527265713300
+
+2021-11-11 16:04:59,275 INFO [PUSH-SUCC] 4ms, all delay time 529ms, SLA 132599ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:05:09,360 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:05:09,361 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009537354257500
+
+2021-11-11 16:05:09,361 INFO send udp packet: 10.0.0.8,49157,2009537354257500
+
+2021-11-11 16:05:09,365 INFO [PUSH-SUCC] 5ms, all delay time 603ms, SLA 142689ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:05:19,336 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:05:19,337 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009547330238300
+
+2021-11-11 16:05:19,337 INFO send udp packet: 10.0.0.8,49157,2009547330238300
+
+2021-11-11 16:05:19,341 INFO [PUSH-SUCC] 6ms, all delay time 554ms, SLA 152665ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:05:29,300 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:05:29,301 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009557294378100
+
+2021-11-11 16:05:29,301 INFO send udp packet: 10.0.0.8,49157,2009557294378100
+
+2021-11-11 16:05:29,310 INFO [PUSH-SUCC] 10ms, all delay time 513ms, SLA 162634ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:05:39,372 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:05:39,373 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009567367013900
+
+2021-11-11 16:05:39,373 INFO send udp packet: 10.0.0.8,49157,2009567367013900
+
+2021-11-11 16:05:39,376 INFO [PUSH-SUCC] 4ms, all delay time 569ms, SLA 172700ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:05:49,399 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:05:49,400 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009577393564800
+
+2021-11-11 16:05:49,400 INFO send udp packet: 10.0.0.8,49157,2009577393564800
+
+2021-11-11 16:05:49,404 INFO [PUSH-SUCC] 5ms, all delay time 575ms, SLA 182728ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:05:59,417 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:05:59,418 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009587411102300
+
+2021-11-11 16:05:59,418 INFO send udp packet: 10.0.0.8,49157,2009587411102300
+
+2021-11-11 16:05:59,422 INFO [PUSH-SUCC] 5ms, all delay time 579ms, SLA 192746ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:06:09,424 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:06:09,425 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009597419408000
+
+2021-11-11 16:06:09,425 INFO send udp packet: 10.0.0.8,49157,2009597419408000
+
+2021-11-11 16:06:09,429 INFO [PUSH-SUCC] 5ms, all delay time 576ms, SLA 202753ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:06:19,389 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:06:19,389 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009607383475600
+
+2021-11-11 16:06:19,390 INFO send udp packet: 10.0.0.8,49157,2009607383475600
+
+2021-11-11 16:06:19,391 INFO [PUSH-SUCC] 2ms, all delay time 528ms, SLA 212715ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:06:29,412 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:06:29,413 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009617406241500
+
+2021-11-11 16:06:29,413 INFO send udp packet: 10.0.0.8,49157,2009617406241500
+
+2021-11-11 16:06:29,417 INFO [PUSH-SUCC] 5ms, all delay time 545ms, SLA 222741ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=3}, DataSize=1, target=10.0.0.8
+
+2021-11-11 16:06:52,672 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2021-11-11 16:06:52,673 INFO serviceName: DEFAULT_GROUP@@user-center@@DEFAULT changed, schedule push for: 10.0.0.8:49157, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49157,2009640666578200
+
+2021-11-11 16:06:52,673 INFO send udp packet: 10.0.0.8,49157,2009640666578200
+
+2021-11-11 16:07:02,690 INFO retry to push data, key: 10.0.0.8,49157,2009640666578200
+
+2021-11-11 16:07:12,697 WARN max re-push times reached, retry times 2, key: 10.0.0.8,49157,2009640666578200
+
+2021-11-11 16:07:12,697 ERROR [PUSH-FAIL] 20025ms, Service{namespace='public', group='DEFAULT_GROUP', name='user-center', ephemeral=true, revision=4}, reason=null, target=10.0.0.8
+
+2021-11-11 17:12:27,471 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}
+
+2021-11-11 17:12:27,811 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:12:27,832 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013575805455400
+
+2021-11-11 17:12:27,833 INFO send udp packet: 10.0.0.8,61429,2013575805455400
+
+2021-11-11 17:12:27,911 INFO [PUSH-SUCC] 100ms, all delay time 681ms, SLA 447ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:12:28,876 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:12:28,878 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013576870145900
+
+2021-11-11 17:12:28,878 INFO send udp packet: 10.0.0.8,61429,2013576870145900
+
+2021-11-11 17:12:28,897 INFO [PUSH-SUCC] 21ms, all delay time 528ms, SLA 1433ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:12:38,946 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:12:38,947 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013586940460200
+
+2021-11-11 17:12:38,947 INFO send udp packet: 10.0.0.8,61429,2013586940460200
+
+2021-11-11 17:12:38,949 INFO [PUSH-SUCC] 3ms, all delay time 558ms, SLA 11485ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:12:48,960 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:12:48,960 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013596954087000
+
+2021-11-11 17:12:48,960 INFO send udp packet: 10.0.0.8,61429,2013596954087000
+
+2021-11-11 17:12:48,962 INFO [PUSH-SUCC] 2ms, all delay time 535ms, SLA 21498ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:12:58,956 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:12:58,956 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013606950850900
+
+2021-11-11 17:12:58,956 INFO send udp packet: 10.0.0.8,61429,2013606950850900
+
+2021-11-11 17:12:58,958 INFO [PUSH-SUCC] 2ms, all delay time 506ms, SLA 31494ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:13:10,719 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:13:10,720 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013618714198800
+
+2021-11-11 17:13:10,720 INFO send udp packet: 10.0.0.8,61429,2013618714198800
+
+2021-11-11 17:13:10,722 INFO [PUSH-SUCC] 3ms, all delay time 568ms, SLA 43258ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:13:20,823 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:13:20,824 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013628817933000
+
+2021-11-11 17:13:20,824 INFO send udp packet: 10.0.0.8,61429,2013628817933000
+
+2021-11-11 17:13:20,827 INFO [PUSH-SUCC] 4ms, all delay time 604ms, SLA 53363ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:13:30,787 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:13:30,787 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013638781423300
+
+2021-11-11 17:13:30,787 INFO send udp packet: 10.0.0.8,61429,2013638781423300
+
+2021-11-11 17:13:30,788 INFO [PUSH-SUCC] 1ms, all delay time 560ms, SLA 63324ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:13:40,811 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:13:40,812 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013648805404400
+
+2021-11-11 17:13:40,812 INFO send udp packet: 10.0.0.8,61429,2013648805404400
+
+2021-11-11 17:13:40,816 INFO [PUSH-SUCC] 5ms, all delay time 559ms, SLA 73352ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:13:50,831 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:13:50,832 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013658826006700
+
+2021-11-11 17:13:50,832 INFO send udp packet: 10.0.0.8,61429,2013658826006700
+
+2021-11-11 17:13:50,835 INFO [PUSH-SUCC] 4ms, all delay time 574ms, SLA 83371ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:14:00,812 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:14:00,813 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013668807231400
+
+2021-11-11 17:14:00,813 INFO send udp packet: 10.0.0.8,61429,2013668807231400
+
+2021-11-11 17:14:00,817 INFO [PUSH-SUCC] 5ms, all delay time 513ms, SLA 93353ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:14:10,900 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:14:10,901 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013678894407000
+
+2021-11-11 17:14:10,901 INFO send udp packet: 10.0.0.8,61429,2013678894407000
+
+2021-11-11 17:14:10,905 INFO [PUSH-SUCC] 5ms, all delay time 588ms, SLA 103441ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:14:20,918 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:14:20,918 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013688912099200
+
+2021-11-11 17:14:20,919 INFO send udp packet: 10.0.0.8,61429,2013688912099200
+
+2021-11-11 17:14:20,943 INFO [PUSH-SUCC] 26ms, all delay time 614ms, SLA 113479ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:14:30,950 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:14:30,950 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013698944113500
+
+2021-11-11 17:14:30,951 INFO send udp packet: 10.0.0.8,61429,2013698944113500
+
+2021-11-11 17:14:30,963 INFO [PUSH-SUCC] 13ms, all delay time 581ms, SLA 123499ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:14:40,914 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:14:40,915 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013708907847100
+
+2021-11-11 17:14:40,916 INFO send udp packet: 10.0.0.8,61429,2013708907847100
+
+2021-11-11 17:14:40,931 INFO [PUSH-SUCC] 17ms, all delay time 522ms, SLA 133467ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:14:50,984 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:14:50,985 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013718978668000
+
+2021-11-11 17:14:50,985 INFO send udp packet: 10.0.0.8,61429,2013718978668000
+
+2021-11-11 17:14:50,998 INFO [PUSH-SUCC] 14ms, all delay time 560ms, SLA 143534ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:15:00,992 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:15:00,993 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013728986025900
+
+2021-11-11 17:15:00,994 INFO send udp packet: 10.0.0.8,61429,2013728986025900
+
+2021-11-11 17:15:00,998 INFO [PUSH-SUCC] 6ms, all delay time 528ms, SLA 153534ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:15:11,059 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:15:11,060 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013739054060000
+
+2021-11-11 17:15:11,087 INFO send udp packet: 10.0.0.8,61429,2013739054060000
+
+2021-11-11 17:15:11,090 INFO [PUSH-SUCC] 31ms, all delay time 574ms, SLA 163626ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:15:21,089 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:15:21,090 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013749084188900
+
+2021-11-11 17:15:21,090 INFO send udp packet: 10.0.0.8,61429,2013749084188900
+
+2021-11-11 17:15:21,095 INFO [PUSH-SUCC] 6ms, all delay time 561ms, SLA 173631ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:15:31,103 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:15:31,104 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013759097080500
+
+2021-11-11 17:15:31,104 INFO send udp packet: 10.0.0.8,61429,2013759097080500
+
+2021-11-11 17:15:31,105 INFO [PUSH-SUCC] 2ms, all delay time 532ms, SLA 183641ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:15:41,139 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:15:41,140 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013769133701800
+
+2021-11-11 17:15:41,160 INFO send udp packet: 10.0.0.8,61429,2013769133701800
+
+2021-11-11 17:15:41,173 INFO [PUSH-SUCC] 34ms, all delay time 560ms, SLA 193709ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:15:51,220 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:15:51,220 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013779214649700
+
+2021-11-11 17:15:51,220 INFO send udp packet: 10.0.0.8,61429,2013779214649700
+
+2021-11-11 17:15:51,224 INFO [PUSH-SUCC] 4ms, all delay time 601ms, SLA 203760ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:16:01,315 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:16:01,316 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013789309761600
+
+2021-11-11 17:16:01,316 INFO send udp packet: 10.0.0.8,61429,2013789309761600
+
+2021-11-11 17:16:01,320 INFO [PUSH-SUCC] 5ms, all delay time 603ms, SLA 213856ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:16:11,311 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:16:11,311 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013799305834300
+
+2021-11-11 17:16:11,312 INFO send udp packet: 10.0.0.8,61429,2013799305834300
+
+2021-11-11 17:16:11,316 INFO [PUSH-SUCC] 4ms, all delay time 569ms, SLA 223851ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:16:21,307 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:16:21,308 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013809301365600
+
+2021-11-11 17:16:21,308 INFO send udp packet: 10.0.0.8,61429,2013809301365600
+
+2021-11-11 17:16:21,313 INFO [PUSH-SUCC] 6ms, all delay time 531ms, SLA 233849ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:16:31,316 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:16:31,317 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013819310950500
+
+2021-11-11 17:16:31,317 INFO send udp packet: 10.0.0.8,61429,2013819310950500
+
+2021-11-11 17:16:31,321 INFO [PUSH-SUCC] 5ms, all delay time 519ms, SLA 243857ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:16:41,431 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:16:41,432 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013829425656100
+
+2021-11-11 17:16:41,432 INFO send udp packet: 10.0.0.8,61429,2013829425656100
+
+2021-11-11 17:16:41,436 INFO [PUSH-SUCC] 5ms, all delay time 597ms, SLA 253972ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:16:51,418 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:16:51,419 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013839413107500
+
+2021-11-11 17:16:51,419 INFO send udp packet: 10.0.0.8,61429,2013839413107500
+
+2021-11-11 17:16:51,423 INFO [PUSH-SUCC] 5ms, all delay time 558ms, SLA 263959ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:17:01,408 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:17:01,409 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013849402549900
+
+2021-11-11 17:17:01,409 INFO send udp packet: 10.0.0.8,61429,2013849402549900
+
+2021-11-11 17:17:01,413 INFO [PUSH-SUCC] 5ms, all delay time 517ms, SLA 273949ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:17:11,431 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:17:11,432 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013859425420200
+
+2021-11-11 17:17:11,433 INFO send udp packet: 10.0.0.8,61429,2013859425420200
+
+2021-11-11 17:17:11,463 INFO [PUSH-SUCC] 32ms, all delay time 535ms, SLA 283999ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:17:21,544 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:17:21,545 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013869538483900
+
+2021-11-11 17:17:21,545 INFO send udp packet: 10.0.0.8,61429,2013869538483900
+
+2021-11-11 17:17:21,549 INFO [PUSH-SUCC] 5ms, all delay time 610ms, SLA 294085ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:17:31,467 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:17:31,468 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013879460980000
+
+2021-11-11 17:17:31,493 INFO send udp packet: 10.0.0.8,61429,2013879460980000
+
+2021-11-11 17:17:31,500 INFO [PUSH-SUCC] 33ms, all delay time 536ms, SLA 304036ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:17:41,585 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:17:41,587 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013889579622800
+
+2021-11-11 17:17:41,587 INFO send udp packet: 10.0.0.8,61429,2013889579622800
+
+2021-11-11 17:17:41,591 INFO [PUSH-SUCC] 6ms, all delay time 608ms, SLA 314127ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:17:51,500 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:17:51,514 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013899494223200
+
+2021-11-11 17:17:51,515 INFO send udp packet: 10.0.0.8,61429,2013899494223200
+
+2021-11-11 17:17:51,519 INFO [PUSH-SUCC] 20ms, all delay time 524ms, SLA 324055ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:18:01,616 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:18:01,617 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013909610737100
+
+2021-11-11 17:18:01,617 INFO send udp packet: 10.0.0.8,61429,2013909610737100
+
+2021-11-11 17:18:01,621 INFO [PUSH-SUCC] 6ms, all delay time 615ms, SLA 334157ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:18:11,619 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:18:11,620 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013919613642400
+
+2021-11-11 17:18:11,622 INFO send udp packet: 10.0.0.8,61429,2013919613642400
+
+2021-11-11 17:18:11,637 INFO [PUSH-SUCC] 18ms, all delay time 605ms, SLA 344173ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:18:21,608 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:18:21,608 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013929602173800
+
+2021-11-11 17:18:21,609 INFO send udp packet: 10.0.0.8,61429,2013929602173800
+
+2021-11-11 17:18:21,615 INFO [PUSH-SUCC] 7ms, all delay time 572ms, SLA 354151ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:18:31,614 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:18:31,616 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013939609430600
+
+2021-11-11 17:18:31,617 INFO send udp packet: 10.0.0.8,61429,2013939609430600
+
+2021-11-11 17:18:31,621 INFO [PUSH-SUCC] 7ms, all delay time 556ms, SLA 364157ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:18:41,661 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:18:41,662 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013949655834300
+
+2021-11-11 17:18:41,662 INFO send udp packet: 10.0.0.8,61429,2013949655834300
+
+2021-11-11 17:18:41,664 INFO [PUSH-SUCC] 3ms, all delay time 593ms, SLA 374200ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:18:51,666 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:18:51,666 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013959660741400
+
+2021-11-11 17:18:51,667 INFO send udp packet: 10.0.0.8,61429,2013959660741400
+
+2021-11-11 17:18:51,669 INFO [PUSH-SUCC] 3ms, all delay time 562ms, SLA 384205ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:19:01,648 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:19:01,648 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013969643013700
+
+2021-11-11 17:19:01,649 INFO send udp packet: 10.0.0.8,61429,2013969643013700
+
+2021-11-11 17:19:01,651 INFO [PUSH-SUCC] 2ms, all delay time 502ms, SLA 394186ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:19:11,728 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:19:11,728 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013979722900900
+
+2021-11-11 17:19:11,728 INFO send udp packet: 10.0.0.8,61429,2013979722900900
+
+2021-11-11 17:19:11,730 INFO [PUSH-SUCC] 2ms, all delay time 558ms, SLA 404266ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:19:21,751 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:19:21,751 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013989745653000
+
+2021-11-11 17:19:21,752 INFO send udp packet: 10.0.0.8,61429,2013989745653000
+
+2021-11-11 17:19:21,754 INFO [PUSH-SUCC] 3ms, all delay time 566ms, SLA 414290ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:19:31,740 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:19:31,741 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2013999734927300
+
+2021-11-11 17:19:31,741 INFO send udp packet: 10.0.0.8,61429,2013999734927300
+
+2021-11-11 17:19:31,758 INFO [PUSH-SUCC] 18ms, all delay time 545ms, SLA 424294ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:19:41,777 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:19:41,793 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014009786898300
+
+2021-11-11 17:19:41,793 INFO send udp packet: 10.0.0.8,61429,2014009786898300
+
+2021-11-11 17:19:41,820 INFO [PUSH-SUCC] 43ms, all delay time 576ms, SLA 434356ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:19:51,870 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:19:51,871 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014019864430800
+
+2021-11-11 17:19:51,871 INFO send udp packet: 10.0.0.8,61429,2014019864430800
+
+2021-11-11 17:19:51,874 INFO [PUSH-SUCC] 4ms, all delay time 574ms, SLA 444410ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:20:01,875 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:20:01,876 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014029870044600
+
+2021-11-11 17:20:01,876 INFO send udp packet: 10.0.0.8,61429,2014029870044600
+
+2021-11-11 17:20:01,880 INFO [PUSH-SUCC] 5ms, all delay time 556ms, SLA 454416ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:20:11,865 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:20:11,866 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014039859682900
+
+2021-11-11 17:20:11,866 INFO send udp packet: 10.0.0.8,61429,2014039859682900
+
+2021-11-11 17:20:11,870 INFO [PUSH-SUCC] 5ms, all delay time 511ms, SLA 464406ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:20:21,924 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:20:21,925 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014049919321400
+
+2021-11-11 17:20:21,925 INFO send udp packet: 10.0.0.8,61429,2014049919321400
+
+2021-11-11 17:20:21,929 INFO [PUSH-SUCC] 5ms, all delay time 559ms, SLA 474465ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:20:31,934 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:20:31,935 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014059928803700
+
+2021-11-11 17:20:31,935 INFO send udp packet: 10.0.0.8,61429,2014059928803700
+
+2021-11-11 17:20:31,939 INFO [PUSH-SUCC] 5ms, all delay time 511ms, SLA 484475ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:20:42,061 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:20:42,062 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014070055762800
+
+2021-11-11 17:20:42,062 INFO send udp packet: 10.0.0.8,61429,2014070055762800
+
+2021-11-11 17:20:42,066 INFO [PUSH-SUCC] 5ms, all delay time 582ms, SLA 494602ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:20:52,063 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:20:52,064 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014080057448300
+
+2021-11-11 17:20:52,064 INFO send udp packet: 10.0.0.8,61429,2014080057448300
+
+2021-11-11 17:20:52,068 INFO [PUSH-SUCC] 5ms, all delay time 580ms, SLA 504604ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:21:02,054 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:21:02,054 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014090048002500
+
+2021-11-11 17:21:02,054 INFO send udp packet: 10.0.0.8,61429,2014090048002500
+
+2021-11-11 17:21:02,055 INFO [PUSH-SUCC] 1ms, all delay time 508ms, SLA 514591ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:21:12,189 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:21:12,190 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014100183297400
+
+2021-11-11 17:21:12,191 INFO send udp packet: 10.0.0.8,61429,2014100183297400
+
+2021-11-11 17:21:12,194 INFO [PUSH-SUCC] 5ms, all delay time 602ms, SLA 524730ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:21:22,225 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:21:22,225 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014110219207000
+
+2021-11-11 17:21:22,225 INFO send udp packet: 10.0.0.8,61429,2014110219207000
+
+2021-11-11 17:21:22,226 INFO [PUSH-SUCC] 1ms, all delay time 583ms, SLA 534762ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:21:32,234 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:21:32,234 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014120228467600
+
+2021-11-11 17:21:32,234 INFO send udp packet: 10.0.0.8,61429,2014120228467600
+
+2021-11-11 17:21:32,238 INFO [PUSH-SUCC] 4ms, all delay time 590ms, SLA 544774ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:21:42,218 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:21:42,219 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014130212390100
+
+2021-11-11 17:21:42,219 INFO send udp packet: 10.0.0.8,61429,2014130212390100
+
+2021-11-11 17:21:42,221 INFO [PUSH-SUCC] 3ms, all delay time 549ms, SLA 554757ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:21:52,211 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:21:52,224 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014140218500300
+
+2021-11-11 17:21:52,224 INFO send udp packet: 10.0.0.8,61429,2014140218500300
+
+2021-11-11 17:21:52,228 INFO [PUSH-SUCC] 17ms, all delay time 547ms, SLA 564764ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:22:02,236 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:22:02,237 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014150231501000
+
+2021-11-11 17:22:02,237 INFO send udp packet: 10.0.0.8,61429,2014150231501000
+
+2021-11-11 17:22:02,243 INFO [PUSH-SUCC] 7ms, all delay time 541ms, SLA 574779ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:22:12,248 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:22:12,264 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014160242546000
+
+2021-11-11 17:22:12,264 INFO send udp packet: 10.0.0.8,61429,2014160242546000
+
+2021-11-11 17:22:12,267 INFO [PUSH-SUCC] 19ms, all delay time 537ms, SLA 584803ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:22:22,354 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:22:22,354 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014170347881800
+
+2021-11-11 17:22:22,354 INFO send udp packet: 10.0.0.8,61429,2014170347881800
+
+2021-11-11 17:22:22,355 INFO [PUSH-SUCC] 1ms, all delay time 555ms, SLA 594891ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:22:32,428 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:22:32,429 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014180423263000
+
+2021-11-11 17:22:32,430 INFO send udp packet: 10.0.0.8,61429,2014180423263000
+
+2021-11-11 17:22:32,439 INFO [PUSH-SUCC] 11ms, all delay time 615ms, SLA 604975ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:22:42,428 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:22:42,429 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014190422846800
+
+2021-11-11 17:22:42,429 INFO send udp packet: 10.0.0.8,61429,2014190422846800
+
+2021-11-11 17:22:42,432 INFO [PUSH-SUCC] 4ms, all delay time 602ms, SLA 614968ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:22:52,399 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:22:52,400 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014200393845700
+
+2021-11-11 17:22:52,400 INFO send udp packet: 10.0.0.8,61429,2014200393845700
+
+2021-11-11 17:22:52,404 INFO [PUSH-SUCC] 5ms, all delay time 546ms, SLA 624940ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:23:02,443 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:23:02,443 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014210437333300
+
+2021-11-11 17:23:02,443 INFO send udp packet: 10.0.0.8,61429,2014210437333300
+
+2021-11-11 17:23:02,446 INFO [PUSH-SUCC] 3ms, all delay time 557ms, SLA 634982ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:23:12,552 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:23:12,552 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014220545932200
+
+2021-11-11 17:23:12,552 INFO send udp packet: 10.0.0.8,61429,2014220545932200
+
+2021-11-11 17:23:12,554 INFO [PUSH-SUCC] 2ms, all delay time 542ms, SLA 645090ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:23:22,584 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:23:22,706 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014230578452000
+
+2021-11-11 17:23:22,707 INFO send udp packet: 10.0.0.8,61429,2014230578452000
+
+2021-11-11 17:23:22,709 INFO [PUSH-SUCC] 125ms, all delay time 667ms, SLA 655245ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:23:32,645 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:23:32,645 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014240639095000
+
+2021-11-11 17:23:32,645 INFO send udp packet: 10.0.0.8,61429,2014240639095000
+
+2021-11-11 17:23:32,647 INFO [PUSH-SUCC] 2ms, all delay time 589ms, SLA 665183ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:23:59,245 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:23:59,245 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:61429, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,61429,2014267239533500
+
+2021-11-11 17:23:59,246 INFO send udp packet: 10.0.0.8,61429,2014267239533500
+
+2021-11-11 17:24:09,247 INFO retry to push data, key: 10.0.0.8,61429,2014267239533500
+
+2021-11-11 17:24:19,274 WARN max re-push times reached, retry times 2, key: 10.0.0.8,61429,2014267239533500
+
+2021-11-11 17:24:19,274 ERROR [PUSH-FAIL] 20029ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=2}, reason=null, target=10.0.0.8
+
+2021-11-11 17:27:31,620 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}
+
+2021-11-11 17:27:31,984 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:27:31,985 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014479978633000
+
+2021-11-11 17:27:31,985 INFO send udp packet: 10.0.0.8,49588,2014479978633000
+
+2021-11-11 17:27:32,160 INFO [PUSH-SUCC] 176ms, all delay time 728ms, SLA 540ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:27:33,318 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:27:33,318 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014481312387600
+
+2021-11-11 17:27:33,318 INFO send udp packet: 10.0.0.8,49588,2014481312387600
+
+2021-11-11 17:27:33,329 INFO [PUSH-SUCC] 11ms, all delay time 536ms, SLA 1709ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:27:43,446 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:27:43,447 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014491440702100
+
+2021-11-11 17:27:43,447 INFO send udp packet: 10.0.0.8,49588,2014491440702100
+
+2021-11-11 17:27:43,451 INFO [PUSH-SUCC] 5ms, all delay time 586ms, SLA 11831ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:27:53,519 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:27:53,537 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014501530118500
+
+2021-11-11 17:27:53,537 INFO send udp packet: 10.0.0.8,49588,2014501530118500
+
+2021-11-11 17:27:53,541 INFO [PUSH-SUCC] 22ms, all delay time 625ms, SLA 21921ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:28:03,526 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:28:03,526 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014511520466300
+
+2021-11-11 17:28:03,526 INFO send udp packet: 10.0.0.8,49588,2014511520466300
+
+2021-11-11 17:28:03,531 INFO [PUSH-SUCC] 5ms, all delay time 573ms, SLA 31911ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:28:13,507 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:28:13,524 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014521501602400
+
+2021-11-11 17:28:13,524 INFO send udp packet: 10.0.0.8,49588,2014521501602400
+
+2021-11-11 17:28:13,528 INFO [PUSH-SUCC] 21ms, all delay time 545ms, SLA 41908ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:28:23,607 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:28:23,608 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014531602304600
+
+2021-11-11 17:28:23,608 INFO send udp packet: 10.0.0.8,49588,2014531602304600
+
+2021-11-11 17:28:23,612 INFO [PUSH-SUCC] 5ms, all delay time 582ms, SLA 51992ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:28:33,643 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:28:33,653 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014541637734500
+
+2021-11-11 17:28:33,654 INFO send udp packet: 10.0.0.8,49588,2014541637734500
+
+2021-11-11 17:28:33,658 INFO [PUSH-SUCC] 15ms, all delay time 589ms, SLA 62038ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:28:43,659 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:28:43,660 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014551653565200
+
+2021-11-11 17:28:43,660 INFO send udp packet: 10.0.0.8,49588,2014551653565200
+
+2021-11-11 17:28:43,664 INFO [PUSH-SUCC] 5ms, all delay time 556ms, SLA 72044ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:28:53,666 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:28:53,667 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014561660355100
+
+2021-11-11 17:28:53,677 INFO send udp packet: 10.0.0.8,49588,2014561660355100
+
+2021-11-11 17:28:53,681 INFO [PUSH-SUCC] 15ms, all delay time 534ms, SLA 82061ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:29:03,788 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:29:03,788 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014571782588500
+
+2021-11-11 17:29:03,789 INFO send udp packet: 10.0.0.8,49588,2014571782588500
+
+2021-11-11 17:29:03,793 INFO [PUSH-SUCC] 22ms, all delay time 623ms, SLA 92173ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:29:13,768 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:29:13,769 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014581763516700
+
+2021-11-11 17:29:13,769 INFO send udp packet: 10.0.0.8,49588,2014581763516700
+
+2021-11-11 17:29:13,776 INFO [PUSH-SUCC] 8ms, all delay time 568ms, SLA 102156ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:29:23,787 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:29:23,788 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014591782455000
+
+2021-11-11 17:29:23,788 INFO send udp packet: 10.0.0.8,49588,2014591782455000
+
+2021-11-11 17:29:23,792 INFO [PUSH-SUCC] 5ms, all delay time 526ms, SLA 112172ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:29:33,895 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:29:33,896 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014601889680100
+
+2021-11-11 17:29:33,896 INFO send udp packet: 10.0.0.8,49588,2014601889680100
+
+2021-11-11 17:29:33,905 INFO [PUSH-SUCC] 10ms, all delay time 614ms, SLA 122285ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:29:43,899 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:29:43,900 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014611894361600
+
+2021-11-11 17:29:43,900 INFO send udp packet: 10.0.0.8,49588,2014611894361600
+
+2021-11-11 17:29:43,911 INFO [PUSH-SUCC] 12ms, all delay time 570ms, SLA 132291ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:29:53,919 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:29:53,919 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014621913564100
+
+2021-11-11 17:29:53,919 INFO send udp packet: 10.0.0.8,49588,2014621913564100
+
+2021-11-11 17:29:53,924 INFO [PUSH-SUCC] 6ms, all delay time 572ms, SLA 142304ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:30:03,910 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:30:03,910 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014631904213500
+
+2021-11-11 17:30:03,910 INFO send udp packet: 10.0.0.8,49588,2014631904213500
+
+2021-11-11 17:30:03,914 INFO [PUSH-SUCC] 6ms, all delay time 550ms, SLA 152294ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:30:13,906 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:30:13,906 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014641900560500
+
+2021-11-11 17:30:13,906 INFO send udp packet: 10.0.0.8,49588,2014641900560500
+
+2021-11-11 17:30:13,924 INFO [PUSH-SUCC] 18ms, all delay time 537ms, SLA 162304ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:30:24,012 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:30:24,013 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014652007067600
+
+2021-11-11 17:30:24,013 INFO send udp packet: 10.0.0.8,49588,2014652007067600
+
+2021-11-11 17:30:24,017 INFO [PUSH-SUCC] 5ms, all delay time 591ms, SLA 172397ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:30:34,027 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:30:34,027 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014662021895700
+
+2021-11-11 17:30:34,028 INFO send udp packet: 10.0.0.8,49588,2014662021895700
+
+2021-11-11 17:30:34,029 INFO [PUSH-SUCC] 2ms, all delay time 596ms, SLA 182409ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:30:44,053 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:30:44,054 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014672047794700
+
+2021-11-11 17:30:44,054 INFO send udp packet: 10.0.0.8,49588,2014672047794700
+
+2021-11-11 17:30:44,058 INFO [PUSH-SUCC] 5ms, all delay time 562ms, SLA 192438ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:30:54,071 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:30:54,071 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014682065467300
+
+2021-11-11 17:30:54,071 INFO send udp packet: 10.0.0.8,49588,2014682065467300
+
+2021-11-11 17:30:54,075 INFO [PUSH-SUCC] 5ms, all delay time 530ms, SLA 202455ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:31:04,073 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:31:04,088 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014692067144900
+
+2021-11-11 17:31:04,088 INFO send udp packet: 10.0.0.8,49588,2014692067144900
+
+2021-11-11 17:31:04,092 INFO [PUSH-SUCC] 19ms, all delay time 527ms, SLA 212472ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:31:14,317 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:31:14,318 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014702312136300
+
+2021-11-11 17:31:14,318 INFO send udp packet: 10.0.0.8,49588,2014702312136300
+
+2021-11-11 17:31:14,322 INFO [PUSH-SUCC] 5ms, all delay time 537ms, SLA 222702ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:31:24,327 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:31:24,328 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014712322020500
+
+2021-11-11 17:31:24,328 INFO send udp packet: 10.0.0.8,49588,2014712322020500
+
+2021-11-11 17:31:24,332 INFO [PUSH-SUCC] 5ms, all delay time 511ms, SLA 232712ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:31:34,458 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:31:34,458 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014722452343900
+
+2021-11-11 17:31:34,459 INFO send udp packet: 10.0.0.8,49588,2014722452343900
+
+2021-11-11 17:31:34,463 INFO [PUSH-SUCC] 5ms, all delay time 605ms, SLA 242843ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:31:44,461 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:31:44,461 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014732455335700
+
+2021-11-11 17:31:44,462 INFO send udp packet: 10.0.0.8,49588,2014732455335700
+
+2021-11-11 17:31:44,465 INFO [PUSH-SUCC] 4ms, all delay time 575ms, SLA 252845ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:31:54,478 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:31:54,479 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014742473254900
+
+2021-11-11 17:31:54,479 INFO send udp packet: 10.0.0.8,49588,2014742473254900
+
+2021-11-11 17:31:54,491 INFO [PUSH-SUCC] 13ms, all delay time 588ms, SLA 262871ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:32:04,481 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:32:04,482 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014752475829200
+
+2021-11-11 17:32:04,482 INFO send udp packet: 10.0.0.8,49588,2014752475829200
+
+2021-11-11 17:32:04,486 INFO [PUSH-SUCC] 5ms, all delay time 573ms, SLA 272866ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:32:14,505 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:32:14,522 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014762499767600
+
+2021-11-11 17:32:14,522 INFO send udp packet: 10.0.0.8,49588,2014762499767600
+
+2021-11-11 17:32:14,525 INFO [PUSH-SUCC] 20ms, all delay time 578ms, SLA 282905ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:32:24,528 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:32:24,528 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014772522519000
+
+2021-11-11 17:32:24,528 INFO send udp packet: 10.0.0.8,49588,2014772522519000
+
+2021-11-11 17:32:24,554 INFO [PUSH-SUCC] 26ms, all delay time 599ms, SLA 292934ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:32:34,571 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:32:34,571 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014782565017800
+
+2021-11-11 17:32:34,571 INFO send udp packet: 10.0.0.8,49588,2014782565017800
+
+2021-11-11 17:32:34,576 INFO [PUSH-SUCC] 22ms, all delay time 601ms, SLA 302956ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:32:44,555 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:32:44,556 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014792549674800
+
+2021-11-11 17:32:44,556 INFO send udp packet: 10.0.0.8,49588,2014792549674800
+
+2021-11-11 17:32:44,560 INFO [PUSH-SUCC] 5ms, all delay time 545ms, SLA 312940ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:32:54,568 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:32:54,569 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014802562579100
+
+2021-11-11 17:32:54,569 INFO send udp packet: 10.0.0.8,49588,2014802562579100
+
+2021-11-11 17:32:54,572 INFO [PUSH-SUCC] 4ms, all delay time 525ms, SLA 322952ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:33:04,582 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:33:04,582 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014812576098500
+
+2021-11-11 17:33:04,582 INFO send udp packet: 10.0.0.8,49588,2014812576098500
+
+2021-11-11 17:33:04,584 INFO [PUSH-SUCC] 2ms, all delay time 532ms, SLA 332964ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:33:14,698 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:33:14,699 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014822693106600
+
+2021-11-11 17:33:14,699 INFO send udp packet: 10.0.0.8,49588,2014822693106600
+
+2021-11-11 17:33:14,703 INFO [PUSH-SUCC] 5ms, all delay time 595ms, SLA 343083ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:33:24,691 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:33:24,692 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014832686090200
+
+2021-11-11 17:33:24,692 INFO send udp packet: 10.0.0.8,49588,2014832686090200
+
+2021-11-11 17:33:24,696 INFO [PUSH-SUCC] 5ms, all delay time 576ms, SLA 353076ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:33:34,703 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:33:34,704 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014842698204800
+
+2021-11-11 17:33:34,704 INFO send udp packet: 10.0.0.8,49588,2014842698204800
+
+2021-11-11 17:33:34,708 INFO [PUSH-SUCC] 5ms, all delay time 565ms, SLA 363088ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:33:44,846 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:33:44,846 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014852840913300
+
+2021-11-11 17:33:44,847 INFO send udp packet: 10.0.0.8,49588,2014852840913300
+
+2021-11-11 17:33:44,849 INFO [PUSH-SUCC] 3ms, all delay time 551ms, SLA 373229ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:33:54,885 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:33:54,886 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014862879326600
+
+2021-11-11 17:33:54,886 INFO send udp packet: 10.0.0.8,49588,2014862879326600
+
+2021-11-11 17:33:54,888 INFO [PUSH-SUCC] 3ms, all delay time 565ms, SLA 383268ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:34:04,899 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:34:04,900 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014872893503000
+
+2021-11-11 17:34:04,900 INFO send udp packet: 10.0.0.8,49588,2014872893503000
+
+2021-11-11 17:34:04,904 INFO [PUSH-SUCC] 5ms, all delay time 548ms, SLA 393284ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:34:14,884 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:34:14,885 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014882879112600
+
+2021-11-11 17:34:14,886 INFO send udp packet: 10.0.0.8,49588,2014882879112600
+
+2021-11-11 17:34:14,892 INFO [PUSH-SUCC] 8ms, all delay time 525ms, SLA 403272ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:34:24,964 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:34:24,964 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014892957843000
+
+2021-11-11 17:34:24,964 INFO send udp packet: 10.0.0.8,49588,2014892957843000
+
+2021-11-11 17:34:24,965 INFO [PUSH-SUCC] 2ms, all delay time 586ms, SLA 413345ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:34:35,115 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:34:35,115 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014903109265200
+
+2021-11-11 17:34:35,115 INFO send udp packet: 10.0.0.8,49588,2014903109265200
+
+2021-11-11 17:34:35,119 INFO [PUSH-SUCC] 5ms, all delay time 558ms, SLA 423499ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:34:45,152 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:34:45,152 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014913145940300
+
+2021-11-11 17:34:45,152 INFO send udp packet: 10.0.0.8,49588,2014913145940300
+
+2021-11-11 17:34:45,153 INFO [PUSH-SUCC] 1ms, all delay time 560ms, SLA 433533ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:34:55,119 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:34:55,119 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014923113186000
+
+2021-11-11 17:34:55,119 INFO send udp packet: 10.0.0.8,49588,2014923113186000
+
+2021-11-11 17:34:55,120 INFO [PUSH-SUCC] 1ms, all delay time 522ms, SLA 443500ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:35:05,183 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:35:05,183 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014933177123700
+
+2021-11-11 17:35:05,183 INFO send udp packet: 10.0.0.8,49588,2014933177123700
+
+2021-11-11 17:35:05,184 INFO [PUSH-SUCC] 1ms, all delay time 561ms, SLA 453564ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:35:15,153 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:35:15,154 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014943148151700
+
+2021-11-11 17:35:15,154 INFO send udp packet: 10.0.0.8,49588,2014943148151700
+
+2021-11-11 17:35:15,160 INFO [PUSH-SUCC] 7ms, all delay time 509ms, SLA 463540ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:35:25,262 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:35:25,263 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014953256767200
+
+2021-11-11 17:35:25,263 INFO send udp packet: 10.0.0.8,49588,2014953256767200
+
+2021-11-11 17:35:25,267 INFO [PUSH-SUCC] 5ms, all delay time 575ms, SLA 473647ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:35:35,254 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:35:35,255 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014963248850500
+
+2021-11-11 17:35:35,255 INFO send udp packet: 10.0.0.8,49588,2014963248850500
+
+2021-11-11 17:35:35,277 INFO [PUSH-SUCC] 23ms, all delay time 577ms, SLA 483657ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, DataSize=1, target=10.0.0.8
+
+2021-11-11 17:35:45,318 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:35:45,318 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014973312646800
+
+2021-11-11 17:35:45,318 INFO send udp packet: 10.0.0.8,49588,2014973312646800
+
+2021-11-11 17:35:55,332 INFO retry to push data, key: 10.0.0.8,49588,2014973312646800
+
+2021-11-11 17:36:03,062 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:36:03,062 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2014991056238500
+
+2021-11-11 17:36:03,063 INFO send udp packet: 10.0.0.8,49588,2014991056238500
+
+2021-11-11 17:36:05,363 WARN max re-push times reached, retry times 2, key: 10.0.0.8,49588,2014973312646800
+
+2021-11-11 17:36:05,363 ERROR [PUSH-FAIL] 20045ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=1}, reason=null, target=10.0.0.8
+
+2021-11-11 17:36:13,079 INFO retry to push data, key: 10.0.0.8,49588,2014991056238500
+
+2021-11-11 17:36:18,101 INFO DEFAULT_GROUP@@file-center is changed, add it to push queue.
+
+2021-11-11 17:36:18,101 INFO serviceName: DEFAULT_GROUP@@file-center@@DEFAULT changed, schedule push for: 10.0.0.8:49588, agent: Nacos-Java-Client:v1.4.1, key: 10.0.0.8,49588,2015006094867400
+
+2021-11-11 17:36:18,101 INFO send udp packet: 10.0.0.8,49588,2015006094867400
+
+2021-11-11 17:36:23,086 WARN max re-push times reached, retry times 2, key: 10.0.0.8,49588,2014991056238500
+
+2021-11-11 17:36:23,086 ERROR [PUSH-FAIL] 20024ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=2}, reason=null, target=10.0.0.8
+
+2021-11-11 17:36:28,115 INFO retry to push data, key: 10.0.0.8,49588,2015006094867400
+
+2021-11-11 17:36:38,130 WARN max re-push times reached, retry times 2, key: 10.0.0.8,49588,2015006094867400
+
+2021-11-11 17:36:38,130 ERROR [PUSH-FAIL] 20029ms, Service{namespace='public', group='DEFAULT_GROUP', name='file-center', ephemeral=true, revision=2}, reason=null, target=10.0.0.8
+

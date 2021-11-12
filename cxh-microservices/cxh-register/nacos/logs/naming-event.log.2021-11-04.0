@@ -1,8 +1,0 @@
-2021-11-04 13:30:57,226 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:9900@DEFAULT@gateway, region: unknown, msg: client last beat: 1636002879065
-
-2021-11-04 13:30:57,226 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:8000@DEFAULT@uaa-server, region: unknown, msg: client last beat: 1636002882441
-
-2021-11-04 16:07:40,295 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:9900@DEFAULT@gateway-service, region: unknown, msg: client last beat: 1636013240706
-
-2021-11-04 16:07:40,414 INFO {POS} {IP-DISABLED} valid: 10.0.0.8:8000@DEFAULT@uaa-server, region: unknown, msg: client last beat: 1636013242481
-

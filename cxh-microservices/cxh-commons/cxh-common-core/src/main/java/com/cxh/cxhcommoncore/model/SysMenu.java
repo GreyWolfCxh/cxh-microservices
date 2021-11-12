@@ -24,7 +24,7 @@ public class SysMenu extends SuperEntity {
 	private String path;
 	private Integer sort;
 	private Integer type;
-	private Boolean hidden;
+	private Integer hidden;
 	/**
 	 * 请求的类型
 	 */

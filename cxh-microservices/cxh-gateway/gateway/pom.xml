@@ -22,7 +22,6 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-gateway</artifactId>
-            <version>3.0.4</version>
         </dependency>
         <!--服务注册/发现中心依赖-->
         <dependency>
@@ -36,45 +35,18 @@
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
         </dependency>
 
-        <!--fegin组件-->
+
         <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-openfeign</artifactId>
-            <version>3.0.2</version>
-        </dependency>
-        <!-- Feign Client for loadBalancing -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-loadbalancer</artifactId>
-            <version>3.0.2</version>
-        </dependency>
-        <!--客户端负载均衡loadbalancer-->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-loadbalancer</artifactId>
+            <groupId>com.cxh</groupId>
+            <artifactId>cxh-loadbalancer-spring-boot-starter</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
-
-    </dependencies>
-
-
-   <!-- <dependencies>
-       &lt;!&ndash;
         <dependency>
-            <groupId>com.zlt</groupId>
-            <artifactId>zlt-loadbalancer-spring-boot-starter</artifactId>
+            <groupId>com.cxh</groupId>
+            <artifactId>cxh-sentinel-spring-boot-starter</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
-        <dependency>
-            <groupId>com.zlt</groupId>
-            <artifactId>zlt-sentinel-spring-boot-starter</artifactId>
-        </dependency>
-        &lt;!&ndash;&ndash;&gt;
-        <dependency>
-            <groupId>com.zlt</groupId>
-            <artifactId>zlt-auth-client-spring-boot-starter</artifactId>
-        </dependency>
-
-        &ndash;&gt;
 
         <dependency>
             <groupId>com.cxh</groupId>
@@ -94,27 +66,11 @@
             </exclusions>
         </dependency>
 
-        &lt;!&ndash;<dependency>
-            <groupId>com.alibaba.cloud</groupId>
-            <artifactId>spring-cloud-alibaba-sentinel-gateway</artifactId>
-        </dependency>&ndash;&gt;
-
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-gateway</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.alibaba.cloud</groupId>
-            <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
-        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-webflux</artifactId>
         </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-openfeign</artifactId>
-        </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
@@ -124,11 +80,7 @@
             <artifactId>spring-boot-configuration-processor</artifactId>
             <optional>true</optional>
         </dependency>
-        &lt;!&ndash; swagger &ndash;&gt;
-        <dependency>
-            <groupId>com.github.xiaoymin</groupId>
-            <artifactId>knife4j-spring-boot-starter</artifactId>
-        </dependency>
+
         <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-extension</artifactId>
@@ -141,6 +93,43 @@
             <groupId>eu.bitwalker</groupId>
             <artifactId>UserAgentUtils</artifactId>
         </dependency>
+
+
+    </dependencies>
+
+<!--
+
+    <dependencies>
+       &lt;!&ndash;
+        &lt;!&ndash;&ndash;&gt;
+        <dependency>
+            <groupId>com.zlt</groupId>
+            <artifactId>zlt-auth-client-spring-boot-starter</artifactId>
+        </dependency>
+
+        &ndash;&gt;
+
+
+
+      &lt;!&ndash;  <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-alibaba-sentinel-gateway</artifactId>
+        </dependency>&ndash;&gt;
+
+
+
+
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+
+        &lt;!&ndash; swagger &ndash;&gt;
+        <dependency>
+            <groupId>com.github.xiaoymin</groupId>
+            <artifactId>knife4j-spring-boot-starter</artifactId>
+        </dependency>
+
        &lt;!&ndash; <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-oauth2-resource-server</artifactId>
@@ -149,8 +138,9 @@
             <groupId>org.springframework.security.oauth</groupId>
             <artifactId>spring-security-oauth2</artifactId>
         </dependency>&ndash;&gt;
-    </dependencies>-->
+    </dependencies>
 
+-->
 
     <build>
         <plugins>

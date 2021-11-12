@@ -36,16 +36,16 @@ public class SysRoleServiceImpl extends SuperServiceImpl<SysRoleMapper, SysRole>
     @Resource
     private SysRoleMenuMapper roleMenuMapper;
 
-    @Autowired
-    private DistributedLock lock;
+   /* @Resource
+    private DistributedLock lock;*/
 
     @Transactional(rollbackFor = Exception.class)
     @Override
     public void saveRole(SysRole sysRole) throws Exception {
-        String roleCode = sysRole.getCode();
+        /*String roleCode = sysRole.getCode();
         super.saveIdempotency(sysRole, lock
                 , LOCK_KEY_ROLECODE+roleCode, new QueryWrapper<SysRole>().eq("code", roleCode), "角色code已存在");
-    }
+    */}
 
     @Transactional(rollbackFor = Exception.class)
     @Override

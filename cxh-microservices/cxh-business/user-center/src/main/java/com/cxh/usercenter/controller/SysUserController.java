@@ -52,8 +52,8 @@ public class SysUserController {
     @Autowired
     private ISysUserService appUserService;
 
-    @Autowired
-    private IQueryService queryService;
+  /*  @Autowired
+    private IQueryService queryService;*/
 
     /**
      * 当前登录用户 LoginAppUser
@@ -281,7 +281,8 @@ public class SysUserController {
     public PageResult<JsonNode> search(SearchDto searchDto) {
         searchDto.setIsHighlighter(true);
         searchDto.setSortCol("createTime");
-        return queryService.strQuery("sys_user", searchDto, SEARCH_LOGIC_DEL_DTO);
+        //return queryService.strQuery("sys_user", searchDto, SEARCH_LOGIC_DEL_DTO);
+        return null;
     }
 
     /**
